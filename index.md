@@ -232,7 +232,7 @@ Publications
   
 33.  Xavier Vilajosana, Pere Tuset, Thomas Watteyne, Kris Pister. OpenMote: Open-Source Prototyping Platform for the Industrial IoT. 7th EAI International Conference on Ad Hoc Networks. Rome. Italy, September 2015 .
   
-35.  Thomas Watteyne, Xavier Vilajosana, Pere Tuset: “Open{WSN|Mote}: Open-Source Industrial IoT”. ERCIM News 2015(101) (2015)
+35.  Thomas Watteyne, Xavier Vilajosana, Pere Tuset: OpenWSN|Mote: Open-Source Industrial IoT. ERCIM News 2015(101) (2015)
   
 37.  Thomas Watteyne, Cedric Adjih, Xavier Vilajosana. Lessons Learned from Large-scale Dense IEEE802.15.4 Connectivity Traces. IEEE International Conference on Automation Science and Engineering. Sweden August 2015 .
   
