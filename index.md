@@ -230,22 +230,21 @@ Publications
   
 16.  Maria Rita Palattella, Xavier Vilajosana, Tengfei Chang, Miguel Angel Reina Ortega, Thomas Watteyne “Lessons Learned from the 6TiSCH Plugtests” EAI International Conference on Interoperability in IoT  October 2015, Roma, Italy 
   
-17.  Xavier Vilajosana, Pere Tuset, Thomas Watteyne, Kris Pister. OpenMote: Open-Source Prototyping Platform for the Industrial IoT. 7th EAI International Conference on Ad Hoc Networks. Rome. Italy, September 2015 .
+17.  Xavier Vilajosana, Pere Tuset, Thomas Watteyne, Kris Pister. OpenMote: Open-Source Prototyping Platform for the Industrial IoT. 7th EAI International Conference on Ad Hoc Networks. Rome. Italy, September 2015.
   
-18.  Thomas Watteyne, Xavier Vilajosana, Pere Tuset: OpenWSN|Mote: Open-Source Industrial IoT. ERCIM News 2015(101) (2015)
+18.  Thomas Watteyne, Xavier Vilajosana, Pere Tuset: OpenWSNMote: Open-Source Industrial IoT. ERCIM News 2015(101) (2015)
   
 19.  Thomas Watteyne, Cedric Adjih, Xavier Vilajosana. Lessons Learned from Large-scale Dense IEEE802.15.4 Connectivity Traces. IEEE International Conference on Automation Science and Engineering. Sweden August 2015 .
   
 20.  Xavier Vilajosana, Ignasi Vilajosana, Francesc Domingo and Jordi Ortuño. “Smart Cities: Business Case Stories”. IEEE COMSOC MMTC E-Letter, SPECIAL ISSUE ON SMART CITIES. Volume 9 Number 5. September 2014.
   
-21.  Marc Barcelo, Alejandro Correa, Xavier Vilajosana, José López Vicario, Antoni Morell:  
-    Novel Routing Approach for the TSCH Mode of IEEE 802.15.14e in Wireless Sensor Networks with Mobile Nodes. VTC Fall 2014: 1-5
+21.  Marc Barcelo, Alejandro Correa, Xavier Vilajosana, José López Vicario, Antoni Morell: Novel Routing Approach for the TSCH Mode of IEEE 802.15.14e in Wireless Sensor Networks with Mobile Nodes. VTC Fall 2014: 1-5
   
 22.  Domingo, M., Montón, M., Vilajosana, I., Vilajosana, X., Arnedo, J. (2014). Balancing power consumption in IoT devices by using variable packet size. Proceedings of the Sixth International Conference on Complex, Intelligent, and Software Intensive Systems (CISIS-2014). Birmingham: IEEE Press .
   
 23.  Thomas Watteyne, Ines Robles, and Xavier Vilajosana. Running IoT Code at the IETF 90 LLN Plugfest. IETF Journal,  2015. 
   
-24.   Pere Tuset, Francisco Vázquez, Jesus Alonso, Luis Alonso, Xavier Vilajosana. “Demonstrating Low-Power Distributed Queuing for Active RFID Communications at 433 MHz”. IEEE International Conference on Computer Communications(INFOCOM). Toronto, Canada. May, 2014. (Best Runner Up Demo INFOCOM 2014 Award)
+24.  Pere Tuset, Francisco Vázquez, Jesus Alonso, Luis Alonso, Xavier Vilajosana. “Demonstrating Low-Power Distributed Queuing for Active RFID Communications at 433 MHz”. IEEE International Conference on Computer Communications(INFOCOM). Toronto, Canada. May, 2014. (Best Runner Up Demo INFOCOM 2014 Award)
   
 25.  M.R. Palattella, P. Thubert, X. Vilajosana, T. Watteyne, Q. Wang, T. Engel, [” 6TiSCH Wireless Industrial Networks: Determinism Meets IPv6](http://secan-lab.uni.lu/secanlab/images/stories/maria_rita/BookChapter.pdf)”, in S. C. Mukhopadhyay (Edt), ” Internet of Things: Challenges and Opportunities”, Springer-Verlag, Lecture series of Smart Sensors, Instrumentation and Measurements,  2014.
   
