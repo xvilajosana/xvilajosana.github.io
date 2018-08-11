@@ -13,7 +13,7 @@ E-mail: [xvilajosana\[at\]uoc\[dot\]edu](mailto:xvilajosana@uoc.edu)
 About Me
 --------
 
-Xavier Vilajosana, is principal investigator at the Wireless Networks Research Lab and professor at the Computer Science, Telecommunications and Multimedia department at UOC. In addition Xavier is co-founder of Worldsensing, and OpenMote Technologies. Xavier has been senior researcher at the HP R&D Labs and before he was visiting Professor at the University of California Berkeley holding a prestigious Fulbright fellowship. He has also been visiting researcher of France Telecom RD Labs in Paris during 2008. Xavier is one of the main promoters of low power wireless technologies, co-leading the OpenWSN.org initiative at UC Berkeley, and promoting the use of low power wireless standards in the Industry. He also contributed to the industrialization and introduction of Low Power Wide Area Networks to urban scenarios through Worldsensing. Xavier is author of different Internet Drafts and RFCs at the IETF, as part of his standardization activities for low power industrial networks. Xavier holds several patents, and a large number of high impact journal publications, having contributed with several demos, tutorials and courses in the field of low power wireless networks. Finally Xavier is an IEEE Senior Member and founding member and vocal of the IEEE Sensors Council in Spain.
+Xavier Vilajosana, is principal investigator at the Wireless Networks (WiNe) research Lab at UOC and professor at the Computer Science, Telecommunications and Multimedia department.  Xavier is also co-founder of Worldsensing, and OpenMote Technologies. Until March 2016 Xavier has been senior researcher at the HP R&D Labs. From January 2012 to January 2014, Xavier was visiting Professor at the University of California Berkeley holding a prestigious Fulbright fellowship. In 2008, he was visiting researcher of France Telecom R&D Labs, Paris. Xavier has been one of the main promoters of low power wireless technologies, co-leading the OpenWSN.org initiative at UC Berkeley, and promoting the use of low power wireless standards for the emerging Industrial Internet paradigm. He also contributed to the industrialization and introduction of Low Power Wide Area Networks to urban scenarios through Worldsensing. Xavier is author of different Internet Drafts and RFCs at the IETF, as part of his standardization activities for low power industrial networks. Xavier is contributing actively at the IETF 6TiSCH, 6Lo and ROLL Working Groups. Xavier holds more than 30 patents, more than 50 high impact journal publications and have contributed with several demos, tutorials and courses in the field of low power wireless networks. Finally Xavier is IEEE Senior Member and founding member and vocal of the IEEE Sensors Council in Spain.
 
 Internet Drafts (IETF)
 ----------------------
@@ -97,62 +97,69 @@ Patents
 
 Publications
 ------------
+### Journals Under Review
 
-### Journals
+1.  Elvina Gindullina, Leonardo Badia, Xavier Vilajosana. Adaptive sampling algorithms for energy harvesting powered nodes with sampling rate limitations. IEEE Internet of Things Journal 2018 (IF=7.59) (Under review)
+
+1.  Xavier Vilajosana, Thomas Watteyne, Malisa Vucinic, Tengfei Chang, Kristofer S.J. Pister. “6TiSCH, the IETF Industrial IoT Stack”. Special issue Real–Time Networks and Protocols for Factory Automation and Process Control Systems. IEEE Proceedings Journal. 2018. (Under review). (Q1 IF=9.107)
+
+1.  Borja Martinez, Cristina Cano, Xavier Vilajosana. “A Square Peg in a Round Hole: The Complex Path for Wireless in the Manufacturing Industry”. IEEE Communications Magazine 2018.  (Under review). (Q1 IF=9.27)
 
 1.  Xavier Vilajosana, Thomas Watteyne, Tengfei Chang, Malisa Vucinic, Simon Duquennoy, Pascal Thubert. “IETF 6TISCH: A tutorial”. IEEE Communications Surveys and Tutorials. 2018. (Under Review) (IF=17.188)
+
+1.  Tengfei Chang, Thomas Watteyne, Xavier Vilajosana, Pedro Henrique Gomez “Exploiting Constructive Interference in 802.15.4:Survey & Hands-on Tutorial”. IEEE Communications Surveys and Tutorials  (IF=17.188) (Under review).
+
+### Journals
   
-2.  Borja Martinez, Xavier Vilajosana, Màrius Montón, Ignasi Vilajosana “Supporting the IoT Business Value through platformization of pilots”. Special issue Beyond Testbeds: Real-World IoT Deployments. IEEE Pervasive Computing 2018. (Accepted Pending Publication) (IF=3.250)
+1.  Borja Martinez, Xavier Vilajosana, Màrius Montón, Ignasi Vilajosana “Supporting the IoT Business Value through platformization of pilots”. Special issue Beyond Testbeds: Real-World IoT Deployments. IEEE Pervasive Computing 2018. (Accepted Pending Publication) (IF=3.250)
   
-3.  Esteban Municio, Glenn Daneels, Malisa Vucinic, Steven Latré, Jeroen Famaey, Kazushi Muraoka, Xavier Vilajosana, Thomas Watteyne. “Simulating 6TiSCH Networks” Transactions on Emerging Telecommunications Technologies. 2018. (Q3 IF=1.535)  (Accepted Pending Publication)
+1.  Esteban Municio, Glenn Daneels, Malisa Vucinic, Steven Latré, Jeroen Famaey, Kazushi Muraoka, Xavier Vilajosana, Thomas Watteyne. “Simulating 6TiSCH Networks” Transactions on Emerging Telecommunications Technologies. 2018. (Q3 IF=1.535)  (Accepted Pending Publication)
+    
+1.  Keoma Brun-Laguna Ana Laura Diedrichs, Diego Dujovne, Carlos Taffernaberry, Rémy Léone, Xavier Vilajosana, Thomas Watteyne “Using SmartMesh IP in Smart Agriculture and Smart Building Deployments: it Just Works”. Elsevier Computer Communication Journal (IF: 3.338)
   
-4.  Tengfei Chang, Thomas Watteyne, Xavier Vilajosana, Pedro Henrique Gomez “Exploiting Constructive Interference in 802.15.4:Survey & Hands-on Tutorial”. IEEE Communications Surveys and Tutorials  (IF=17.188) (Under review).
+1.  Brecht Reynders , Qing Wang , Pere Tuset-Peiro , Xavier Vilajosana , and Sofie Pollin. “Improving Reliability and Scalability of LoRaWANs Through Lightweight Scheduling”. IEEE Internet of Things Journal (IF=7.59)
   
-5.  Keoma Brun-Laguna Ana Laura Diedrichs, Diego Dujovne, Carlos Taffernaberry, Rémy Léone, Xavier Vilajosana, Thomas Watteyne “Using SmartMesh IP in Smart Agriculture and Smart Building Deployments: it Just Works”. Elsevier Computer Communication Journal (IF: 3.338)
+1.  Xavier Vilajosana, Cristina Cano, Borja Martinez, Pere Tuset, Joan Melià, Ferran Adelantado. The Wireless Technology Landscape in the Manufacturing Industry: A Reality Check. IEEE COMSOC MMTC Communications – Frontiers. October 2017. 
   
-6.  Brecht Reynders , Qing Wang , Pere Tuset-Peiro , Xavier Vilajosana , and Sofie Pollin. “Improving Reliability and Scalability of LoRaWANs Through Lightweight Scheduling”. IEEE Internet of Things Journal (IF=7.59)
+1.  Xavier Vilajosana, Borja Martinez, Ignasi Vilajosana, Thomas Watteyne. ¨On the Suitability of 6TiSCH for Wireless Seismic Data Streaming¨. Wiley Internet Technology Letters 2017.
   
-7.  Xavier Vilajosana, Cristina Cano, Borja Martinez, Pere Tuset, Joan Melià, Ferran Adelantado. The Wireless Technology Landscape in the Manufacturing Industry: A Reality Check. IEEE COMSOC MMTC Communications – Frontiers. October 2017. 
+1.  Mališa Vučinić, Thomas Watteyne, Xavier Vilajosana. ¨Broadcasting Strategies in 6TiSCH Networks¨. Wiley Internet Technology Letters 2017. 
   
-8.  Xavier Vilajosana, Borja Martinez, Ignasi Vilajosana, Thomas Watteyne. ¨On the Suitability of 6TiSCH for Wireless Seismic Data Streaming¨. Wiley Internet Technology Letters 2017.
+1.  Tengfei Chang, Thomas Watteyne, Xavier Vilajosana, Qin Wang. “CCR: Cost-Aware Cell Relocation in 6TiSCH Networks”. TRANSACTIONS ON EMERGING TELECOMMUNICATIONS TECHNOLOGIES Volume X, Issue X, Feb 2017.  (IF =1.535)
   
-9.  Mališa Vučinić, Thomas Watteyne, Xavier Vilajosana. ¨Broadcasting Strategies in 6TiSCH Networks¨. Wiley Internet Technology Letters 2017. 
+1.  B Martinez, X Vilajosana, IH Kim, J Zhou, P Tuset-Peiró, A Xhafa “I3Mote: An Open Development Platform for the Intelligent Industrial Internet” MDPI Sensors 17 (5), 986 (IF=2.033)
   
-10.  Tengfei Chang, Thomas Watteyne, Xavier Vilajosana, Qin Wang. “CCR: Cost-Aware Cell Relocation in 6TiSCH Networks”. TRANSACTIONS ON EMERGING TELECOMMUNICATIONS TECHNOLOGIES Volume X, Issue X, Feb 2017.  (IF =1.535)
+1.  Thomas Watteyne, Pere Tuset, Xavier Vilajosana, Sofie Pollin,Bhaskar Krishnamachari. “Teaching Communication Technologies and Standards for the Industrial IoT? Use 6TiSCH!”. Special Issue on “Education and Training: Telecommunication Standards Education”. IEEE Communications Magazine. January 2017. (IF=5.125)
   
-11.  B Martinez, X Vilajosana, IH Kim, J Zhou, P Tuset-Peiró, A Xhafa “I3Mote: An Open Development Platform for the Intelligent Industrial Internet” MDPI Sensors 17 (5), 986 (IF=2.033)
+1.  Borja Martinez, Xavier Vilajosana, Diego Dujovne “Accurate clock discipline for long-term synchronization intervals” IEEE Sensors Journal.  (IF=1.889)
   
-12.  Thomas Watteyne, Pere Tuset, Xavier Vilajosana, Sofie Pollin,Bhaskar Krishnamachari. “Teaching Communication Technologies and Standards for the Industrial IoT? Use 6TiSCH!”. Special Issue on “Education and Training: Telecommunication Standards Education”. IEEE Communications Magazine. January 2017. (IF=5.125)
+1.  Ferran Adelantado, Xavier Vilajosana, Pere Tuset, Borja Martinez, Joan Melia, Thomas Watteyne. “Understanding the limits of LoRaWAN”. IEEE Communications Magazine.  (IF=5.125).
   
-13.  Borja Martinez, Xavier Vilajosana, Diego Dujovne “Accurate clock discipline for long-term synchronization intervals” IEEE Sensors Journal.  (IF=1.889)
+1.  Antonio Di Maio, Maria Rita Palattella, Ridha Soua, Luca Lamorte, Xavier Vilajosana, Jesus Alonso-Zarate and Thomas Engel. “Enabling SDN in VANETs: what is the Impact on Security?”. MDPI Sensors. Special Issue “Smart City: Vision and Reality”. (IF= 2.033)
   
-14.  Ferran Adelantado, Xavier Vilajosana, Pere Tuset, Borja Martinez, Joan Melia, Thomas Watteyne. “Understanding the limits of LoRaWAN”. IEEE Communications Magazine.  (IF=5.125).
+1.  Toktam Mahmoodi, Vivek Kulkarni, Wolfgang Kellerer, Peter Mangan, Spiros Spirou, Ioannis Askoxylakis, Xavier Vilajosana, Hans Joachim Einsiedler, Jürgen Quittek “VirtuWind: Virtual and Programmable Industrial Network Prototype Deployed in Operational Wind Park” Trans. Emerging Tel. Tech., 29: 484–493. doi: 10.1002/ett.2984. IF=(1.049)
   
-15.  Antonio Di Maio, Maria Rita Palattella, Ridha Soua, Luca Lamorte, Xavier Vilajosana, Jesus Alonso-Zarate and Thomas Engel. “Enabling SDN in VANETs: what is the Impact on Security?”. MDPI Sensors. Special Issue “Smart City: Vision and Reality”. (IF= 2.033)
+1.  Kazushi Muraoka, Thomas Watteyne, Nicola Accettura, Xavier Vilajosana, Kris Pister “Simple Distributed Scheduling with Collision Detection in TSCH Networks”. IEEE Sensors Letters. (IF=1.268)
   
-16.  Toktam Mahmoodi, Vivek Kulkarni, Wolfgang Kellerer, Peter Mangan, Spiros Spirou, Ioannis Askoxylakis, Xavier Vilajosana, Hans Joachim Einsiedler, Jürgen Quittek “VirtuWind: Virtual and Programmable Industrial Network Prototype Deployed in Operational Wind Park” Trans. Emerging Tel. Tech., 29: 484–493. doi: 10.1002/ett.2984. IF=(1.049)
+1.  Marc Domingo Prieto, Tengfei Chang, Xavier Vilajosana, Thomas Watteyne “Distributed PID-based Scheduling for 6TiSCH Networks”. IEEE Communication Letters. (IF=1.268)
   
-17.  Kazushi Muraoka, Thomas Watteyne, Nicola Accettura, Xavier Vilajosana, Kris Pister “Simple Distributed Scheduling with Collision Detection in TSCH Networks”. IEEE Sensors Letters. (IF=1.268)
+1.  Thomas Watteyne, Vlado Handziski, Xavier Vilajosana, Simon Duquennoy, Oliver Hahm, Emmanuel Baccelli, Adam Wolisz. “Industrial Wireless IP-based Cyber Physical Systems”. Special Issue on Cyber Physical Systems. Proceedings of the IEEE, March. 2016 (IF = 5.466)
   
-18.  Marc Domingo Prieto, Tengfei Chang, Xavier Vilajosana, Thomas Watteyne “Distributed PID-based Scheduling for 6TiSCH Networks”. IEEE Communication Letters. (IF=1.268)
+1.  Barcelo, M.; Correa, A.; Vicario, J.L.; Morell, A.; Vilajosana, X., “Addressing Mobility in RPL With Position Assisted Metrics,” in _Sensors Journal, IEEE_ , vol.16, no.7, pp.2151-2161, April1, 2016 doi: 10.1109/JSEN.2015.2500916 (IF=1.852)
   
-19.  Thomas Watteyne, Vlado Handziski, Xavier Vilajosana, Simon Duquennoy, Oliver Hahm, Emmanuel Baccelli, Adam Wolisz. “Industrial Wireless IP-based Cyber Physical Systems”. Special Issue on Cyber Physical Systems. Proceedings of the IEEE, March. 2016 (IF = 5.466)
+1.  Borja Martinez,Marius Monton, Xavier Vilajosana, Ignasi Vilajosana. “Early Scavenger Dimensioning in Wireless Industrial Monitoring Applications”. IEEE Internet Of Things Journal. April 2016 (IF=7.596) 
   
-20.  Barcelo, M.; Correa, A.; Vicario, J.L.; Morell, A.; Vilajosana, X., “Addressing Mobility in RPL With Position Assisted Metrics,” in _Sensors Journal, IEEE_ , vol.16, no.7, pp.2151-2161, April1, 2016 doi: 10.1109/JSEN.2015.2500916 (IF=1.852)
+1.  Martinez, B.; Vilajosana, X.; Vilajosana, I.; Dohler, M., “Lean Sensing: Exploiting Contextual Information for Most Energy-Efficient Sensing,” in _Industrial Informatics, IEEE Transactions on_ , vol.PP, no.99, pp.1-1 doi: 10.1109/TII.2015.2469260. (IF =8.785) 
   
-21.  Borja Martinez,Marius Monton, Xavier Vilajosana, Ignasi Vilajosana. “Early Scavenger Dimensioning in Wireless Industrial Monitoring Applications”. IEEE Internet Of Things Journal. April 2016 (IF=7.596) 
+1.  Diego Dujovne, Thomas Watteyne, Xavier Vilajosana, Pascal Thubert. “6TiSCH: Deterministic IP-enabled Industrial Internet (of Things)”. IEEE Communications Magazine. 2015  Q1  (IF=4.46)
   
-22.  Martinez, B.; Vilajosana, X.; Vilajosana, I.; Dohler, M., “Lean Sensing: Exploiting Contextual Information for Most Energy-Efficient Sensing,” in _Industrial Informatics, IEEE Transactions on_ , vol.PP, no.99, pp.1-1 doi: 10.1109/TII.2015.2469260. (IF =8.785) 
+1.  Pere Tuset-Peiro, Francisco Vazquez-Gallego, Jesus Alonso-Zarate, Luis Alonso, Xavier Vilajosana. “LPDQ: a self-scheduled TDMA MAC protocol for one-hop dynamic lowpower wireless networks”. Elsevier Pervasive and Mobile Computing. Special Issue: Internet of Things. September 2014.  (IF = 1.629)
   
-23.  Diego Dujovne, Thomas Watteyne, Xavier Vilajosana, Pascal Thubert. “6TiSCH: Deterministic IP-enabled Industrial Internet (of Things)”. IEEE Communications Magazine. 2015  Q1  (IF=4.46)
+1.  Martinez, B.; Vilajosana, X.; Chraim, F.; Vilajosana, I.; Pister, K.S.J., “When Scavengers Meet Industrial Wireless,” _Industrial Electronics, IEEE Transactions on_ , vol.62, no.5, pp.2994,3003, May 2015 doi: 10.1109/TIE.2014.2362891 (IF=5.165)
   
-24.  Pere Tuset-Peiro, Francisco Vazquez-Gallego, Jesus Alonso-Zarate, Luis Alonso, Xavier Vilajosana. “LPDQ: a self-scheduled TDMA MAC protocol for one-hop dynamic lowpower wireless networks”. Elsevier Pervasive and Mobile Computing. Special Issue: Internet of Things. September 2014.  (IF = 1.629)
+1.  Tuset-Peiro, P.; Vazquez-Gallego, F.; Alonso-Zarate, J.; Alonso, L.; Vilajosana, X. Experimental Energy Consumption of Frame Slotted ALOHA and Distributed Queuing for Data Collection Scenarios. Sensors 2014, 14, 13416-13436. (IF=1.953)
   
-25.   Martinez, B.; Vilajosana, X.; Chraim, F.; Vilajosana, I.; Pister, K.S.J., “When Scavengers Meet Industrial Wireless,” _Industrial Electronics, IEEE Transactions on_ , vol.62, no.5, pp.2994,3003, May 2015 doi: 10.1109/TIE.2014.2362891 (IF=5.165)
-  
-26.  Tuset-Peiro, P.; Vazquez-Gallego, F.; Alonso-Zarate, J.; Alonso, L.; Vilajosana, X. Experimental Energy Consumption of Frame Slotted ALOHA and Distributed Queuing for Data Collection Scenarios. Sensors 2014, 14, 13416-13436. (IF=1.953)
-  
-27.  Albert Angles, Pere Tuset,Xavier Vilajosana ,Jose Lopez Vicario, Antoni Morell, Ignasi Vilajosana. “A generic empiric propagation model for low power wireless networks operating at the 868 MHz band in smart cities”  IET Microwaves, Antennas & Propagation. May 2014   (IF=0.836)
+1.  Albert Angles, Pere Tuset,Xavier Vilajosana ,Jose Lopez Vicario, Antoni Morell, Ignasi Vilajosana. “A generic empiric propagation model for low power wireless networks operating at the 868 MHz band in smart cities”  IET Microwaves, Antennas & Propagation. May 2014   (IF=0.836)
   
 28.  Xavier Vilajosana, Pere Tuset,Francisco Vazquez-Gallego, Jesus Alonso-Zarate, Luis Alonso, “Standardized low-power wireless communication technologies for distributed sensing applications”. Special Issue “State-of-the-Art Sensors Technology in Spain 2013”. Sensors. 2014; 12(12):8920-8937. Q1 (IF=1.953)
   
@@ -198,7 +205,9 @@ Publications
 
 ### Conferences
 
-1.  Alda Xhafa, Pere Tuset, Xavier Vilajosana. “ Developing a low-cost thermal camera for industrial predictive maintenance applications ” 21st International Conference on Network Based Information Systems (NBIS 2018). Bratislava, Slovakia. September, 2018.
+1.  Maria Rita Palattella, Federico Sismondi, Tengfei Chang, Loic Baron, Malisa Vucinic, Pablo Modernell, Xavier Vilajosana, Thomas Watteyne. "F-Interop Platform and Tools: Validating IoT Implementations Faster". 17th International Conference on Ad Hoc Networks and Wireless – AdHoc-Now 2018 5-7 September 2018 – St Malo - Bretagne, France
+
+1.  Alda Xhafa, Pere Tuset, Xavier Vilajosana. “Developing a low-cost thermal camera for industrial predictive maintenance applications ” 21st International Conference on Network Based Information Systems (NBIS 2018). Bratislava, Slovakia. September, 2018.
   
 2.  Ioana Suciu, Jose Carlos Pacho, Andrea Bartoli, Xavier Vilajosana. “ Authenticated Preambles for Denial of Service Mitigation in LPWANs ” 17th International Conference on Ad Hoc Networks and Wireless – AdHoc-Now 2018 5-7 September 2018 – St Malo - Bretagne, France
   
