@@ -38,23 +38,25 @@ Internet Drafts (IETF)
 Patents
 -------
 
+1.  Xavier Vilajosana, Joan Melia. "MOISTURE SENSORS". PCT/EP18382616.3. OEPM. 17 August 2018
+
 1.  Xavier Vilajosana, Borja Martinez, Ferran Adelantado, Pere Tuset. “DRIFT CORRECTION IN A WIRELESS NETWORK”. PCT/EP2016/067541. EPO. 22 July 2016.
   
-2.  Xavier Vilajosana. CONTROLLING HEATING IN ADDITIVE MANUFACTURING. PCT/US2016/043667. 20 July 2016
+1.  Xavier Vilajosana. CONTROLLING HEATING IN ADDITIVE MANUFACTURING. PCT/US2016/043667. 20 July 2016
   
-3.  Pere Tuset, Sheila Cabello, Xavier Vilajosana. “Printhead Maintenance Apparatus” PCT/US2016/043866. 25 July 2016. 
+1.  Pere Tuset, Sheila Cabello, Xavier Vilajosana. “Printhead Maintenance Apparatus” PCT/US2016/043866. 25 July 2016. 
   
-4.  Pere Tuset, Sheila Cabello, Xavier Vilajosana. “Indication of Similarity for Drop Detector Signals”. PCT/US2016/043887. 25 July 2016
+1.  Pere Tuset, Sheila Cabello, Xavier Vilajosana. “Indication of Similarity for Drop Detector Signals”. PCT/US2016/043887. 25 July 2016
   
-5.  Francesc Salas Roura, Gonzalo Gaston, Xavier Vilajosana. CONNECTION DETERMINATION IN PRINTING APPARATUS PCT/EP2016/064760. June 2016
+1.  Francesc Salas Roura, Gonzalo Gaston, Xavier Vilajosana. CONNECTION DETERMINATION IN PRINTING APPARATUS PCT/EP2016/064760. June 2016
   
-6.  Xavier Vilajosana, Sascha De Pena, Sebastia Cortes. PRINTER WARMING DEVICE CONTROL. PCT/US2016/032078. May 2016
+1.  Xavier Vilajosana, Sascha De Pena, Sebastia Cortes. PRINTER WARMING DEVICE CONTROL. PCT/US2016/032078. May 2016
   
-7.  Xavier Vilajosana, Sascha De Pena, Sergi Puigardeu, David Ramirez. TEMPERATURE CONTROL PRIOR TO FUSION. PCT/EP2016/060698. May 2016
+1.  Xavier Vilajosana, Sascha De Pena, Sergi Puigardeu, David Ramirez. TEMPERATURE CONTROL PRIOR TO FUSION. PCT/EP2016/060698. May 2016
   
-8.  Pol Fornos, Sergi Puigardeu, Xavier Vilajosana. “Thermal Contributions Between Layers”. PCT/EP2016/060665. May 2016
+1.  Pol Fornos, Sergi Puigardeu, Xavier Vilajosana. “Thermal Contributions Between Layers”. PCT/EP2016/060665. May 2016
   
-9.  Xavier Vilajosana, Marina Ferran Farras, Esteve Comas “Increased fusing reliability by fuse lamp load balancing in 3D Multijet Fusion” 84471365. PD020365PCT. May 2016.
+1.  Xavier Vilajosana, Marina Ferran Farras, Esteve Comas “Increased fusing reliability by fuse lamp load balancing in 3D Multijet Fusion” 84471365. PD020365PCT. May 2016.
   
 10.  Vilajosana, Xavier, Sergi Puigardeu, Pol Fornos, David Ramirez, Sacha de Pena  
     BUILD SURFACE HEAT CONTROL. PCT/EP2016/056961. April 2016
