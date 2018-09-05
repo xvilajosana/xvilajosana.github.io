@@ -109,9 +109,10 @@ Publications
 
 1.  Xavier Vilajosana, Thomas Watteyne, Tengfei Chang, Malisa Vucinic, Simon Duquennoy, Pascal Thubert. “IETF 6TISCH: A tutorial”. IEEE Communications Surveys and Tutorials. 2018. (Under Review) (IF=17.188)
 
-1.  Tengfei Chang, Thomas Watteyne, Xavier Vilajosana, Pedro Henrique Gomez “Exploiting Constructive Interference in 802.15.4:Survey & Hands-on Tutorial”. IEEE Communications Surveys and Tutorials  (IF=17.188) (Under review).
 
 ### Journals
+
+1.  Tengfei Chang, Thomas Watteyne, Xavier Vilajosana, Pedro Henrique Gomez “Exploiting Constructive Interference in 802.15.4:Survey & Hands-on Tutorial”. IEEE Communications Surveys and Tutorials  (IF=20.1) (Accepted. Pending publication).
   
 1.  Borja Martinez, Xavier Vilajosana, Màrius Montón, Ignasi Vilajosana “Supporting the IoT Business Value through platformization of pilots”. Special issue Beyond Testbeds: Real-World IoT Deployments. IEEE Pervasive Computing 2018. (Accepted Pending Publication) (IF=3.250)
   
