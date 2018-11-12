@@ -22,7 +22,7 @@ Internet Drafts (IETF)
 
 1.  Xavier Vilajosana, Kris Pister, Thomas Watteyne. IETF Internet draft. “Minimal IPv6 over the TSCH Mode of IEEE 802.15.4e (6TiSCH) Configuration”.  IETF 2017. [RFC8180](https://www.rfc-editor.org/info/rfc8180) 
   
-2.  Qin Wang, Xavier Vilajosana, Thomas Watteyne. IETF Internet draft. “6TiSCH Operation Sublayer (6top) Protocol (6P)”. IETF 2018. [RF8480](https://tools.ietf.org/info/rfc8480)
+2.  Qin Wang, Xavier Vilajosana, Thomas Watteyne. IETF Internet draft. “6TiSCH Operation Sublayer (6top) Protocol (6P)”. IETF 2018. [RFC8480](https://tools.ietf.org/info/rfc8480)
   
 3.  E.Grosmann, C.Gunter, P.Thubert, X. Vilajosana, et. al, “Deterministic networking use cases”. IETF 2016. [draft-ietf-detnet-use-cases](https://tools.ietf.org/html/draft-ietf-detnet-use-cases-11).
   
@@ -111,8 +111,9 @@ Publications
 
 
 ### Journals
+1.  Muñoz, J.; Chang, T.; Vilajosana, X.; Watteyne, T.	Evaluation of IEEE802.15.4g for Environmental Observations. Sensors 2018, 18, 3468. (Q1. 2.475 (2017))
 
-1.  Tengfei Chang, Thomas Watteyne, Xavier Vilajosana, Pedro Henrique Gomez “Exploiting Constructive Interference in 802.15.4:Survey & Hands-on Tutorial”. IEEE Communications Surveys and Tutorials  (IF=20.1) (Accepted. Pending publication).
+1.  Tengfei Chang, Thomas Watteyne, Xavier Vilajosana, Pedro Henrique Gomez “Exploiting Constructive Interference in 802.15.4:Survey & Hands-on Tutorial”. IEEE Communications Surveys and Tutorials  (Q1 IF=20.1) (Accepted. Pending publication).
   
 1.  Borja Martinez, Xavier Vilajosana, Màrius Montón, Ignasi Vilajosana “Supporting the IoT Business Value through platformization of pilots”. Special issue Beyond Testbeds: Real-World IoT Deployments. IEEE Pervasive Computing 2018. (Accepted Pending Publication) (IF=3.250)
   
