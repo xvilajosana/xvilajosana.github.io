@@ -100,17 +100,18 @@ Patents
 Publications
 ------------
 ### Journals Under Review
-1.  Martinez, B., Adelantado, F., Bartoli, A., & Vilajosana, X. (2018). Exploring the Performance Boundaries of NB-IoT. IEEE Internet Of Things Journal (Q1 IF=7.1)
 
 1.  Elvina Gindullina, Leonardo Badia, Xavier Vilajosana. Adaptive sampling algorithms for energy harvesting powered nodes with sampling rate limitations. IEEE Internet of Things Journal 2018 (Q1 IF=7.59) 
-
-1.  Xavier Vilajosana, Thomas Watteyne, Malisa Vucinic, Tengfei Chang, Kristofer S.J. Pister. “6TiSCH, the IETF Industrial IoT Stack”. Special issue Real–Time Networks and Protocols for Factory Automation and Process Control Systems. IEEE Proceedings Journal. 2018. (Under review). (Q1 IF=9.107)
 
 1.  Xavier Vilajosana, Thomas Watteyne, Tengfei Chang, Malisa Vucinic, Simon Duquennoy, Pascal Thubert. “IETF 6TISCH: A tutorial”. IEEE Communications Surveys and Tutorials. 2018. (Under Review) (Q1 IF=17.188)
 
 
 ### Journals
-1.  Borja Martinez, Cristina Cano, Xavier Vilajosana. “A Square Peg in a Round Hole: The Complex Path for Wireless in the Manufacturing Industry”. IEEE Communications Magazine 2019. (Q1 IF=9.27)
+1.  Xavier Vilajosana, Thomas Watteyne, Malisa Vucinic, Tengfei Chang, Kristofer S.J. Pister. "6TiSCH: Industrial Performance for IPv6 Internet of Things Networks". Special issue Real–Time Networks and Protocols for Factory Automation and Process Control Systems. IEEE Proceedings Journal. 2018. (Accepted Pnding publication). (Q1 IF=9.107)
+
+1.  Martinez, B., Adelantado, F., Bartoli, A., Vilajosana, X. "Exploring the Performance Boundaries of NB-IoT". IEEE Internet Of Things Journal (Q1 IF=5.863)
+
+1.  Borja Martinez, Cristina Cano, Xavier Vilajosana. "A Square Peg in a Round Hole: The Complex Path for Wireless in the Manufacturing Industry". IEEE Communications Magazine 2019. (Q1 IF=9.27)
 
 1.  Muñoz, J.; Chang, T.; Vilajosana, X.; Watteyne, T.	Evaluation of IEEE802.15.4g for Environmental Observations. Sensors 2018, 18, 3468. (Q1. 2.475 (2017))
 
