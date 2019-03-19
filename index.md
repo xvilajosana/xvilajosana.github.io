@@ -101,6 +101,8 @@ Publications
 ------------
 ### Journals Under Review
 
+1.  Loch, Adrian; Cano, Cristina; Sim, Gek Hong; Asadi, Arash; Vilajosana, Xavier. "A Channel Measurement Campaign for mmWave Communication in Industrial Settings". IEEE Transactions on Mobile Computing. (under review) (Q1 IF=4.098)
+
 1.  Elvina Gindullina, Leonardo Badia, Xavier Vilajosana. Adaptive sampling algorithms for energy harvesting powered nodes with sampling rate limitations. IEEE Internet of Things Journal 2018 (Q1 IF=7.59) 
 
 1.  Xavier Vilajosana, Thomas Watteyne, Tengfei Chang, Malisa Vucinic, Simon Duquennoy, Pascal Thubert. “IETF 6TISCH: A tutorial”. IEEE Communications Surveys and Tutorials. 2018. (Under Review) (Q1 IF=17.188)
