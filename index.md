@@ -18,7 +18,7 @@ Xavier Vilajosana, is principal investigator at the Wireless Networks (WiNe) res
 Internet Drafts (IETF)
 ----------------------
 
-### WG adopted drafts
+### WG adopted drafts and RFC Standards
 
 1.  Xavier Vilajosana, Kris Pister, Thomas Watteyne. IETF Internet draft. “Minimal IPv6 over the TSCH Mode of IEEE 802.15.4e (6TiSCH) Configuration”.  IETF 2017. [RFC8180](https://tools.ietf.org/html/rfc8180) 
   
