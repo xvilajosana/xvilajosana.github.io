@@ -20,11 +20,11 @@ Internet Drafts (IETF)
 
 ### WG adopted drafts
 
-1.  Xavier Vilajosana, Kris Pister, Thomas Watteyne. IETF Internet draft. “Minimal IPv6 over the TSCH Mode of IEEE 802.15.4e (6TiSCH) Configuration”.  IETF 2017. [RFC8180](https://www.rfc-editor.org/info/rfc8180) 
+1.  Xavier Vilajosana, Kris Pister, Thomas Watteyne. IETF Internet draft. “Minimal IPv6 over the TSCH Mode of IEEE 802.15.4e (6TiSCH) Configuration”.  IETF 2017. [RFC8180](https://tools.ietf.org/html/rfc8180) 
   
-2.  Qin Wang, Xavier Vilajosana, Thomas Watteyne. IETF Internet draft. “6TiSCH Operation Sublayer (6top) Protocol (6P)”. IETF 2018. [RFC8480](https://tools.ietf.org/info/rfc8480)
+2.  Qin Wang, Xavier Vilajosana, Thomas Watteyne. IETF Internet draft. “6TiSCH Operation Sublayer (6top) Protocol (6P)”. IETF 2018. [RFC8480](https://tools.ietf.org/html/rfc8480)
   
-3.  E.Grosmann, C.Gunter, P.Thubert, X. Vilajosana, et. al, “Deterministic networking use cases”. IETF 2016. [draft-ietf-detnet-use-cases](https://tools.ietf.org/html/draft-ietf-detnet-use-cases-11).
+3.  E.Grosmann, C.Gunter, P.Thubert, X. Vilajosana, et. al, “Deterministic networking use cases”. IETF 2019. [RFC8578](https://tools.ietf.org/html/rfc8578)
   
 4.  Tengfei Chang, Malisa Vucinic, Xavier Vilajosana, S. Duquennoy, D. Dujovne. IETF Internet draft. “6TiSCH Minimal Scheduling Function (MSF). IETF 2018. draft-ietf-6tisch-msf
   
