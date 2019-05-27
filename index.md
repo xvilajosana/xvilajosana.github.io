@@ -101,6 +101,8 @@ Publications
 ------------
 ### Journals Under Review
 
+1.  P. Tuset-Peiro, F. V ́azquez-Gallego, J. M. noz, T. Watteyne, J. Alonso-Zarate, and X. Vilajosana, "Experimental interference robustness evalu-ation of ieee 802.15.4-2015 oqpsk-dsss and sun-ofdm physical layers," IEEE Access. 2019 (under review)
+
 1.  Loch, Adrian; Cano, Cristina; Sim, Gek Hong; Asadi, Arash; Vilajosana, Xavier. "A Channel Measurement Campaign for mmWave Communication in Industrial Settings". IEEE Transactions on Mobile Computing. (under review) (Q1 IF=4.098)
 
 1.  Elvina Gindullina, Leonardo Badia, Xavier Vilajosana. Adaptive sampling algorithms for energy harvesting powered nodes with sampling rate limitations. IEEE Internet of Things Journal 2018 (Q1 IF=7.59) 
