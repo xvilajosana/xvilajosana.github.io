@@ -103,18 +103,18 @@ Publications
 
 1.  David Gregoratti, Xavier Mestre, Xavier Vilajosana. "Model-Aware Collision Resolution for High-Order Orthogonal Modulations". IEEE Wireless Communications Letters 2019 (Under Review) (IF=3.37). 
 
-1.  Ioana Suciu, Filip Maksimovic, Brad Wheeler, David Burnett, Osama Khan,  Thomas Watteyne,  Xavier Vilajosana, Kristofer S.J. Pister. "Dynamic Channel Calibration on a Crystal-Free Mote-on-a-Chip" IEEE Access. 2019 (under review)
-
-1.  P. Tuset-Peiro, F. V ́azquez-Gallego, J. M. noz, T. Watteyne, J. Alonso-Zarate, and X. Vilajosana, "Experimental interference robustness evalu-ation of ieee 802.15.4-2015 oqpsk-dsss and sun-ofdm physical layers," IEEE Access. 2019 (under review)
+1.  P. Tuset-Peiro, F. V ́azquez-Gallego, J. M. noz, T. Watteyne, J. Alonso-Zarate, and X. Vilajosana, "Experimental interference robustness evalu-ation of ieee 802.15.4-2015 oqpsk-dsss and sun-ofdm physical layers," MDPI Electronics. 2019 (under review)
 
 1.  Loch, Adrian; Cano, Cristina; Sim, Gek Hong; Asadi, Arash; Vilajosana, Xavier. "A Channel Measurement Campaign for mmWave Communication in Industrial Settings". IEEE Transactions on Mobile Computing. (under review) (Q1 IF=4.098)
 
-1.  Elvina Gindullina, Leonardo Badia, Xavier Vilajosana. Adaptive sampling algorithms for energy harvesting powered nodes with sampling rate limitations. IEEE Internet of Things Journal 2018 (Q1 IF=7.59) 
-
-1.  Xavier Vilajosana, Thomas Watteyne, Tengfei Chang, Malisa Vucinic, Simon Duquennoy, Pascal Thubert. “IETF 6TISCH: A tutorial”. IEEE Communications Surveys and Tutorials. 2018. (Under Review) (Q1 IF=17.188)
-
 
 ### Journals
+1.  Xavier Vilajosana, Thomas Watteyne, Tengfei Chang, Malisa Vucinic, Simon Duquennoy, Pascal Thubert. “IETF 6TISCH: A tutorial”. IEEE Communications Surveys and Tutorials. 2018. (Accepted. Pending Publication) (Q1 IF=22.973)
+
+1.  Ioana Suciu, Filip Maksimovic, Brad Wheeler, David Burnett, Osama Khan,  Thomas Watteyne,  Xavier Vilajosana, Kristofer S.J. Pister. "Dynamic Channel Calibration on a Crystal-Free Mote-on-a-Chip" IEEE Access. 2019 (Q1 IF=4.098)
+
+1.  Elvina Gindullina, Leonardo Badia, Xavier Vilajosana. Adaptive sampling algorithms for energy harvesting powered nodes with sampling rate limitations. Wiley Transactions on Emerging Telecom Technologies (ETT) 2019 (Q3 IF = 1.606) 
+
 1.  Xavier Vilajosana, Thomas Watteyne, Malisa Vucinic, Tengfei Chang, Kristofer S.J. Pister. "6TiSCH: Industrial Performance for IPv6 Internet of Things Networks". Special issue Real–Time Networks and Protocols for Factory Automation and Process Control Systems. IEEE Proceedings Journal. 2019. (Q1 IF=9.107)
 
 1.  Martinez, B., Adelantado, F., Bartoli, A., Vilajosana, X. "Exploring the Performance Boundaries of NB-IoT". IEEE Internet Of Things Journal. 2019 (Q1 IF=5.863)
