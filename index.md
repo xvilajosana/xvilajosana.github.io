@@ -103,12 +103,12 @@ Publications
 
 1.  David Gregoratti, Xavier Mestre, Xavier Vilajosana. "Model-Aware Collision Resolution for High-Order Orthogonal Modulations". IEEE Wireless Communications Letters 2019 (Under Review) (IF=3.37). 
 
-1.  P. Tuset-Peiro, F. V ́azquez-Gallego, J. M. noz, T. Watteyne, J. Alonso-Zarate, and X. Vilajosana, "Experimental interference robustness evalu-ation of ieee 802.15.4-2015 oqpsk-dsss and sun-ofdm physical layers," MDPI Electronics. 2019 (under review)
-
 1.  Loch, Adrian; Cano, Cristina; Sim, Gek Hong; Asadi, Arash; Vilajosana, Xavier. "A Channel Measurement Campaign for mmWave Communication in Industrial Settings". IEEE Transactions on Mobile Computing. (under review) (Q1 IF=4.098)
 
 
 ### Journals
+1.  Tuset-Peiró, P.; Vázquez-Gallego, F.; Muñoz, J.; Watteyne, T.; Alonso-Zarate, J.; Vilajosana, X. Experimental Interference Robustness Evaluation of IEEE 802.15.4-2015 OQPSK-DSSS and SUN-OFDM Physical Layers for Industrial Communications. Electronics 2019, 8, 1045. (Q2 IF=1.764)
+
 1.  Xavier Vilajosana, Thomas Watteyne, Tengfei Chang, Malisa Vucinic, Simon Duquennoy, Pascal Thubert. “IETF 6TISCH: A tutorial”. IEEE Communications Surveys and Tutorials. 2018. (Accepted. Pending Publication) (Q1 IF=22.973)
 
 1.  Ioana Suciu, Filip Maksimovic, Brad Wheeler, David Burnett, Osama Khan,  Thomas Watteyne,  Xavier Vilajosana, Kristofer S.J. Pister. "Dynamic Channel Calibration on a Crystal-Free Mote-on-a-Chip" IEEE Access. 2019 (Q1 IF=4.098)
