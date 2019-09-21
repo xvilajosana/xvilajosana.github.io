@@ -218,6 +218,8 @@ Publications
 48.  Daniel Lázaro, Xavier Vilajosana, Joan Manuel Marquès, Angel A. Juan, “A Framework for Dynamic Resource Allocation in Decentralized Environments”, International Journal Multiagent and Grid Systems (MAGS) 2009. ISSN: 1574-1702
 
 ### Conferences
+1.  Filip Maksimovic, Brad Wheeler, David C Burnett, Osama Khan, Sahar Mesri, Ioana Suciu, Lydia Lee, Alex Moreno, Arvind Sundararajan, Bob Zhou, Rachel Zoll, Andrew Ng, Tengfei Chang, Xavier Vilajosana, Thomas Watteyne, Ali Niknejad, Kristofer SJ Pister, "A Crystal-Free Single-Chip Micro Mote with Integrated 802.15.4 Compatible Transceiver, sub-mW BLE Compatible Beacon Transmitter, and Cortex M0," 2019 Symposium on VLSI Circuits, Kyoto, Japan, 2019, pp. C88-C89. doi: 10.23919/VLSIC.2019.8777971
+
 1.  J. Melià-Seguí and X. Vilajosana, "Ubiquitous moisture sensing in automaker industry based on standard UHF RFID tags," 2019 IEEE International Conference on RFID (RFID), Phoenix, AZ, USA, 2019, pp. 1-8. doi: 10.1109/RFID.2019.8719092
 
 1.  Chang, T., Watteyne, T., & Vilajosana, X. Competition: OpenWSN, a Development Environment for 6TiSCH. In International Conference on Embedded Wireless Systems and Networks (EWSN), ACM. (Feb. 2019)
