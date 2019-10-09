@@ -113,7 +113,7 @@ Publications
 
 1.  Ioana Suciu, Filip Maksimovic, Brad Wheeler, David Burnett, Osama Khan,  Thomas Watteyne,  Xavier Vilajosana, Kristofer S.J. Pister. "Dynamic Channel Calibration on a Crystal-Free Mote-on-a-Chip" IEEE Access. 2019 (Q1 IF=4.098)
 
-1.  Elvina Gindullina, Leonardo Badia, Xavier Vilajosana. Adaptive sampling algorithms for energy harvesting powered nodes with sampling rate limitations. Wiley Transactions on Emerging Telecom Technologies (ETT) 2019 (Q3 IF = 1.606) 
+1.  Elvina Gindullina, Leonardo Badia, Xavier Vilajosana. Energy Modeling and Adaptive Sampling Algorithms for Energy Harvesting Powered Nodes with Sampling Rate Limitations. Wiley Transactions on Emerging Telecom Technologies (ETT) 2019 (Q3 IF = 1.606) 
 
 1.  Xavier Vilajosana, Thomas Watteyne, Malisa Vucinic, Tengfei Chang, Kristofer S.J. Pister. "6TiSCH: Industrial Performance for IPv6 Internet of Things Networks". Special issue Real–Time Networks and Protocols for Factory Automation and Process Control Systems. IEEE Proceedings Journal. 2019. (Q1 IF=9.107)
 
