@@ -101,6 +101,8 @@ Publications
 ------------
 ### Journals Under Review
 
+1.  Apostolos Kousaridas, Andreas Schimpe, Sebastian Euler, Xavier Vilajosana, Mikael Fallgren, Giada Landi, Francesca Moscatelli, Sokratis Barmpounakis, Francisco Vázquez-Gallego, Roshan Sedar, Rodrigo Silva, Laurent Dizambourg, Stefan Wendt, Maciej Muehleisen, Kurt Eckert, Jérôme Härri, Jesus Alonso-Zarate. 5G Cross-Border Operation for Connected and Automated Mobility: Challenges and Solutions. MDPI Future Internet. Jan 2020. (Under Review)
+
 1.  Tanaka, Yasuyuki; Minet, Pascale; Vučinić, Mališa; Vilajosana, Xavier; Watteyne, Thomas. "YSF: a 6TiSCH Scheduling Function Minimizing Latency of Data Gathering in IIoT". IEEE Internet of Things Journal (Under Review)  (Q1 IF=9.515)
 
 1.  David Gregoratti, Xavier Mestre, Xavier Vilajosana. "Model-Aware Collision Resolution for High-Order Orthogonal Modulations". IEEE Wireless Communications Letters 2019 (Under Review) (Q1 IF=3.37). 
