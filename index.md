@@ -102,8 +102,6 @@ Publications
 ------------
 ### Journals Under Review
 
-1.  Apostolos Kousaridas, Andreas Schimpe, Sebastian Euler, Xavier Vilajosana, Mikael Fallgren, Giada Landi, Francesca Moscatelli, Sokratis Barmpounakis, Francisco Vázquez-Gallego, Roshan Sedar, Rodrigo Silva, Laurent Dizambourg, Stefan Wendt, Maciej Muehleisen, Kurt Eckert, Jérôme Härri, Jesus Alonso-Zarate. 5G Cross-Border Operation for Connected and Automated Mobility: Challenges and Solutions. MDPI Future Internet. Jan 2020. (Under Review)
-
 1.  Tanaka, Yasuyuki; Minet, Pascale; Vučinić, Mališa; Vilajosana, Xavier; Watteyne, Thomas. "YSF: a 6TiSCH Scheduling Function Minimizing Latency of Data Gathering in IIoT". IEEE Internet of Things Journal (Under Review)  (Q1 IF=9.515)
 
 1.  David Gregoratti, Xavier Mestre, Xavier Vilajosana. "Model-Aware Collision Resolution for High-Order Orthogonal Modulations". IEEE Wireless Communications Letters 2019 (Under Review) (Q1 IF=3.37). 
@@ -112,6 +110,9 @@ Publications
 
 
 ### Journals
+
+1.  Kousaridas, A.; Schimpe, A.; Euler, S.; Vilajosana, X.; Fallgren, M.; Landi, G.; Moscatelli, F.; Barmpounakis, S.; Vázquez-Gallego, F.; Sedar, R.; Silva, R.; Dizambourg, L.; Wendt, S.; Muehleisen, M.; Eckert, K.; Härri, J.; Alonso-Zarate, J. 5G Cross-Border Operation for Connected and Automated Mobility: Challenges and Solutions. Future Internet 2020, 12, 5.
+
 1.  Tuset-Peiró, P.; Vázquez-Gallego, F.; Muñoz, J.; Watteyne, T.; Alonso-Zarate, J.; Vilajosana, X. Experimental Interference Robustness Evaluation of IEEE 802.15.4-2015 OQPSK-DSSS and SUN-OFDM Physical Layers for Industrial Communications. Electronics 2019, 8, 1045. (Q2 IF=1.764)
 
 1.  Xavier Vilajosana, Thomas Watteyne, Tengfei Chang, Malisa Vucinic, Simon Duquennoy, Pascal Thubert. “IETF 6TISCH: A tutorial”. IEEE Communications Surveys and Tutorials. 2018. (Accepted. Pending Publication) (Q1 IF=22.973)
@@ -180,49 +181,50 @@ Publications
   
 1.  Albert Angles, Pere Tuset,Xavier Vilajosana ,Jose Lopez Vicario, Antoni Morell, Ignasi Vilajosana. “A generic empiric propagation model for low power wireless networks operating at the 868 MHz band in smart cities”  IET Microwaves, Antennas & Propagation. May 2014   (IF=0.836)
   
-28.  Xavier Vilajosana, Pere Tuset,Francisco Vazquez-Gallego, Jesus Alonso-Zarate, Luis Alonso, “Standardized low-power wireless communication technologies for distributed sensing applications”. Special Issue “State-of-the-Art Sensors Technology in Spain 2013”. Sensors. 2014; 12(12):8920-8937. Q1 (IF=1.953)
+1.  Xavier Vilajosana, Pere Tuset,Francisco Vazquez-Gallego, Jesus Alonso-Zarate, Luis Alonso, “Standardized low-power wireless communication technologies for distributed sensing applications”. Special Issue “State-of-the-Art Sensors Technology in Spain 2013”. Sensors. 2014; 12(12):8920-8937. Q1 (IF=1.953)
   
-29.  Stanislowski, D.; Vilajosana, X.; Wang, Q.; Watteyne, T.; Pister, K.S.J., “Adaptive Synchronization in IEEE802.15.4e Networks,” _Industrial Informatics, IEEE Transactions on_ , vol.10, no.1, pp.795,802, Feb. 2014 doi: 10.1109/TII.2013.2255062 Q1 (IF=3.381)
+1.  Stanislowski, D.; Vilajosana, X.; Wang, Q.; Watteyne, T.; Pister, K.S.J., “Adaptive Synchronization in IEEE802.15.4e Networks,” _Industrial Informatics, IEEE Transactions on_ , vol.10, no.1, pp.795,802, Feb. 2014 doi: 10.1109/TII.2013.2255062 Q1 (IF=3.381)
   
-30.  Vilajosana, X.; Qin Wang; Chraim, F.; Watteyne, T.; Tengfei Chang; Pister, K.S.J., “A Realistic Energy Consumption Model for TSCH Networks,” Sensors Journal, IEEE , vol.14, no.2, pp.482,489, Feb. 2014 doi: 10.1109/JSEN.2013.2285411 Q1 (IF=1.52)
+1.  Vilajosana, X.; Qin Wang; Chraim, F.; Watteyne, T.; Tengfei Chang; Pister, K.S.J., “A Realistic Energy Consumption Model for TSCH Networks,” Sensors Journal, IEEE , vol.14, no.2, pp.482,489, Feb. 2014 doi: 10.1109/JSEN.2013.2285411 Q1 (IF=1.52)
   
-31.  Tuset-Peiró, P., Anglès-Vazquez, A., López-Vicario, J. and Vilajosana-Guillén, X. (2013), On the suitability of the 433 MHz band for M2M low-power wireless communications: propagation aspects. Trans Emerging Tel Tech. doi: 10.1002/ett.2672 (IF=1.049)
+1.  Tuset-Peiró, P., Anglès-Vazquez, A., López-Vicario, J. and Vilajosana-Guillén, X. (2013), On the suitability of the 433 MHz band for M2M low-power wireless communications: propagation aspects. Trans Emerging Tel Tech. doi: 10.1002/ett.2672 (IF=1.049)
   
-32.  Antoni Morell , Xavier Vilajosana , Jose Lopez Vicario , Thomas Watteyne “Label Switching over IEEE802.15.4e Networks”. Transactions on Emerging Telecommunications Technologies. May 2013. doi: 10.1002/ett.2650  (IF=1.049) \[[pdf](https://xvilajosana.files.wordpress.com/2008/04/ett2650.pdf)\]
+1.  Antoni Morell , Xavier Vilajosana , Jose Lopez Vicario , Thomas Watteyne “Label Switching over IEEE802.15.4e Networks”. Transactions on Emerging Telecommunications Technologies. May 2013. doi: 10.1002/ett.2650  (IF=1.049) \[[pdf](https://xvilajosana.files.wordpress.com/2008/04/ett2650.pdf)\]
   
-33.  Vilajosana, I.; Llosa, J.; Martinez, B.; Domingo-Prieto, M.; Angles, A.; Vilajosana, X., “Bootstrapping smart cities through a self-sustainable model based on big data flows,” Communications Magazine, IEEE , vol.51, no.6, pp.128,134, June 2013 doi: 10.1109/MCOM.2013.6525605 Q1 (IF=3.661)
+1.  Vilajosana, I.; Llosa, J.; Martinez, B.; Domingo-Prieto, M.; Angles, A.; Vilajosana, X., “Bootstrapping smart cities through a self-sustainable model based on big data flows,” Communications Magazine, IEEE , vol.51, no.6, pp.128,134, June 2013 doi: 10.1109/MCOM.2013.6525605 Q1 (IF=3.661)
   
-34.  Palattella, M.R.; Accettura, N.; Vilajosana, X.; Watteyne, T.; Grieco, L.A.; Boggia, G.; Dohler, M., “Standardized Protocol Stack for the Internet of (Important) Things,” Communications Surveys & Tutorials, IEEE , vol.15, no.3, pp.1389,1406, Third Quarter 2013 doi: 10.1109/SURV.2012.111412.00158 Q1 (IF=4.818)
+1.  Palattella, M.R.; Accettura, N.; Vilajosana, X.; Watteyne, T.; Grieco, L.A.; Boggia, G.; Dohler, M., “Standardized Protocol Stack for the Internet of (Important) Things,” Communications Surveys & Tutorials, IEEE , vol.15, no.3, pp.1389,1406, Third Quarter 2013 doi: 10.1109/SURV.2012.111412.00158 Q1 (IF=4.818)
   
-35.  Daniel Lázaro, Joan Manuel Marquès, Xavier Vilajosana, Josep Jorba. (2013). Decentralized resource discovery mechanisms for distributed computing in peer-to-peer environments. ACM Computing Surveys. 45(4), pp 40. August 2013 \[2011 ISI SCI impact factor: 4,529; Q1 (1st in category); computer science, theory & methods\] 
+1.  Daniel Lázaro, Joan Manuel Marquès, Xavier Vilajosana, Josep Jorba. (2013). Decentralized resource discovery mechanisms for distributed computing in peer-to-peer environments. ACM Computing Surveys. 45(4), pp 40. August 2013 \[2011 ISI SCI impact factor: 4,529; Q1 (1st in category); computer science, theory & methods\] 
   
-36.  Thomas Watteyne, Xavier Vilajosana, Branko Kerkez, Fabien Chraim, Kevin Weekly, Qin Wang, Steven Glaser, Kris Pister. “OpenWSN: A Standards-Based Low-Power Wireless  Development Environment”. Transactions on Emerging Telecommunications Technologies. Volume: 23: Issue 5. 480–493. August 2012 (IF=1.049)
+1.  Thomas Watteyne, Xavier Vilajosana, Branko Kerkez, Fabien Chraim, Kevin Weekly, Qin Wang, Steven Glaser, Kris Pister. “OpenWSN: A Standards-Based Low-Power Wireless  Development Environment”. Transactions on Emerging Telecommunications Technologies. Volume: 23: Issue 5. 480–493. August 2012 (IF=1.049)
   
-37.  Vilajosana, X., Llosa, J., Vilajosana, I. and Prieto-Blàzquez, J. (2012), Arp@: Remote experiences with real embedded systems. Computer Applications in Engineering Education. doi: 10.1002/cae.21555 (IF=0.321)
+1.  Vilajosana, X., Llosa, J., Vilajosana, I. and Prieto-Blàzquez, J. (2012), Arp@: Remote experiences with real embedded systems. Computer Applications in Engineering Education. doi: 10.1002/cae.21555 (IF=0.321)
   
-38.  Morell A., Vicario J.L., Vilajosana X., Vilajosana I., Seco-Granados G. Optimal Rate Allocation in Cluster-Tree WSNs. _Sensors_. 2011; 11(4):3611-3639. (IF=1.82)
+1.  Morell A., Vicario J.L., Vilajosana X., Vilajosana I., Seco-Granados G. Optimal Rate Allocation in Cluster-Tree WSNs. _Sensors_. 2011; 11(4):3611-3639. (IF=1.82)
   
-39.  I. Vilajosana, J. Llosa, M. Schaefer, E. Suriñach, X. Vilajosana, Wireless sensors as a tool to explore avalanche internal dynamics: Experiments at the Weissfluhjoch Snow Chute, Cold Regions Science and Technology, Volume 65, Issue 2, February 2011, Pages 242-250, ISSN 0165-232X, DOI: 10.1016/j.coldregions.2010.09.011.(IF=1.406)
+1.  I. Vilajosana, J. Llosa, M. Schaefer, E. Suriñach, X. Vilajosana, Wireless sensors as a tool to explore avalanche internal dynamics: Experiments at the Weissfluhjoch Snow Chute, Cold Regions Science and Technology, Volume 65, Issue 2, February 2011, Pages 242-250, ISSN 0165-232X, DOI: 10.1016/j.coldregions.2010.09.011.(IF=1.406)
   
-40.  Vilajosana X., Llosa J., Pacho J.C., Vilajosana I., Juan A.A., Vicario J.L., Morell A. ZERO: Probabilistic Routing for Deploy and Forget Wireless Sensor Networks. Sensors. 2010; 10(10):8920-8937.(IF=1.82)
+1.  Vilajosana X., Llosa J., Pacho J.C., Vilajosana I., Juan A.A., Vicario J.L., Morell A. ZERO: Probabilistic Routing for Deploy and Forget Wireless Sensor Networks. Sensors. 2010; 10(10):8920-8937.(IF=1.82)
   
-41.  Marques, J.; Lazaro, D.; Juan, A.; Vilajosana, X.; Domingo, M.; Jorba, J. (2010): “PlanetLab@UOC: A Real Lab over the Internet to experiment with Distributed Systems”. Computer Applications in Engineering Education. ISSN: 1099-0542. (IF=0,388)
+1.  Marques, J.; Lazaro, D.; Juan, A.; Vilajosana, X.; Domingo, M.; Jorba, J. (2010): “PlanetLab@UOC: A Real Lab over the Internet to experiment with Distributed Systems”. Computer Applications in Engineering Education. ISSN: 1099-0542. (IF=0,388)
   
-42.  Llosa Melich, Jordi; Vilajosana Guillen, Ignasi; Vilajosana Guillén, Xavier; Navarro, Nacho; Suriñach, Emma; Marquès Puig, Joan Manuel.”REMOTE, a Wireless Sensor Network Based System to Monitor Rowing Performance” Sensors; 9(9):7069-7082.2009. (IF=1.87)
+1.  Llosa Melich, Jordi; Vilajosana Guillen, Ignasi; Vilajosana Guillén, Xavier; Navarro, Nacho; Suriñach, Emma; Marquès Puig, Joan Manuel.”REMOTE, a Wireless Sensor Network Based System to Monitor Rowing Performance” Sensors; 9(9):7069-7082.2009. (IF=1.87)
   
-43.  A. Konstantinos Kotis, George A. Vouros, Alexandros Valarakos, Andreas Papasalouros, Xavier Vilajosana, Ruby Krishnaswamy, Nejla Amara-Hachmi , “The Grid4All ontology for the retrieval of traded resources in a market-oriented environment”. International Journal of Web and Grid Services (IJWGS) ISSN (Online): 1741-1114  –  ISSN (Print): 1741-1106, (2009). (IF = 0.91)
+1.  A. Konstantinos Kotis, George A. Vouros, Alexandros Valarakos, Andreas Papasalouros, Xavier Vilajosana, Ruby Krishnaswamy, Nejla Amara-Hachmi , “The Grid4All ontology for the retrieval of traded resources in a market-oriented environment”. International Journal of Web and Grid Services (IJWGS) ISSN (Online): 1741-1114  –  ISSN (Print): 1741-1106, (2009). (IF = 0.91)
   
-44.  Joan Manuel Marquès, Xavier Vilajosana, Thanasis Daradoumis, Leandro Navarro: LaCOLLA: Middleware for Self-Sufficient Online Collaboration. IEEE Internet Computing 11(2): 56-64 (2007). (IF=2.309)
+1.  Joan Manuel Marquès, Xavier Vilajosana, Thanasis Daradoumis, Leandro Navarro: LaCOLLA: Middleware for Self-Sufficient Online Collaboration. IEEE Internet Computing 11(2): 56-64 (2007). (IF=2.309)
   
-45.  Xavier Vilajosana, Daniel Lázaro Iglesias, Angel A. Juan, Joan Manuel Marquès: A Multi-lane Double Auction for Economic-Based Service Management in the Cloud. Intelligent Networking, Collaborative Systems and Applications 2011: 117-148
+1.  Xavier Vilajosana, Daniel Lázaro Iglesias, Angel A. Juan, Joan Manuel Marquès: A Multi-lane Double Auction for Economic-Based Service Management in the Cloud. Intelligent Networking, Collaborative Systems and Applications 2011: 117-148
   
-46.  X. Vilajosana, R. Krishnaswamy, J.M. Marquès, A. Juan, L. Navarro, D. Lázaro. “A Self-* Auction Server: Design principles, Architecture and Implementation”. International Journal of Autonomic Computing (IJAC). (2010) ISSN: 1741-8569
+1.  X. Vilajosana, R. Krishnaswamy, J.M. Marquès, A. Juan, L. Navarro, D. Lázaro. “A Self-* Auction Server: Design principles, Architecture and Implementation”. International Journal of Autonomic Computing (IJAC). (2010) ISSN: 1741-8569
   
-47.  Vilajosana, X.; Marques, J.; Krishnaswamy, R.; Juan, A. (2009): “A Bidding Specification for Grid Resources”. International Journal of Grid and Utility Computing – Vol. 1, No.3 pp. 194 – 204. ISSN: 1741-8488
+1.  Vilajosana, X.; Marques, J.; Krishnaswamy, R.; Juan, A. (2009): “A Bidding Specification for Grid Resources”. International Journal of Grid and Utility Computing – Vol. 1, No.3 pp. 194 – 204. ISSN: 1741-8488
   
-48.  Daniel Lázaro, Xavier Vilajosana, Joan Manuel Marquès, Angel A. Juan, “A Framework for Dynamic Resource Allocation in Decentralized Environments”, International Journal Multiagent and Grid Systems (MAGS) 2009. ISSN: 1574-1702
+1.  Daniel Lázaro, Xavier Vilajosana, Joan Manuel Marquès, Angel A. Juan, “A Framework for Dynamic Resource Allocation in Decentralized Environments”, International Journal Multiagent and Grid Systems (MAGS) 2009. ISSN: 1574-1702
 
 ### Conferences
+
 1.  Filip Maksimovic, Brad Wheeler, David C Burnett, Osama Khan, Sahar Mesri, Ioana Suciu, Lydia Lee, Alex Moreno, Arvind Sundararajan, Bob Zhou, Rachel Zoll, Andrew Ng, Tengfei Chang, Xavier Vilajosana, Thomas Watteyne, Ali Niknejad, Kristofer SJ Pister, "A Crystal-Free Single-Chip Micro Mote with Integrated 802.15.4 Compatible Transceiver, sub-mW BLE Compatible Beacon Transmitter, and Cortex M0," 2019 Symposium on VLSI Circuits, Kyoto, Japan, 2019, pp. C88-C89. doi: 10.23919/VLSIC.2019.8777971
 
 1.  J. Melià-Seguí and X. Vilajosana, "Ubiquitous moisture sensing in automaker industry based on standard UHF RFID tags," 2019 IEEE International Conference on RFID (RFID), Phoenix, AZ, USA, 2019, pp. 1-8. doi: 10.1109/RFID.2019.8719092
