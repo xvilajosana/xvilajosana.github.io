@@ -101,6 +101,9 @@ Patents
 Publications
 ------------
 ### Journals Under Review
+1.  Pere Tuset-Peiro, Ruan D. Gomes, Pascal Thubert, Xavier Vilajosana "Evaluating IEEE 802.15.4g SUN for Dependable Low-Power Wireless Communications In Industrial Scenarios. MDPI Sensors (under review)
+
+1.  Borja Martinez, Cristina Cano, Xavier Vilajosana. "Debunking Wireless Sensor Network myths". IEEE Wireless Communications Magazine. (under review)
 
 1.  Tanaka, Yasuyuki; Minet, Pascale; Vučinić, Mališa; Vilajosana, Xavier; Watteyne, Thomas. "YSF: a 6TiSCH Scheduling Function Minimizing Latency of Data Gathering in IIoT". IEEE Internet of Things Journal (Under Review)  (Q1 IF=9.515)
 
@@ -224,6 +227,8 @@ Publications
 1.  Daniel Lázaro, Xavier Vilajosana, Joan Manuel Marquès, Angel A. Juan, “A Framework for Dynamic Resource Allocation in Decentralized Environments”, International Journal Multiagent and Grid Systems (MAGS) 2009. ISSN: 1574-1702
 
 ### Conferences
+
+1.  Chang, T., Watteyne, T., Wheeler, B., Maksimovic, F., Khan, O., Mesri, S., ... & Vilajosana, X. (2020, February). 6TiSCH on SC $ µ $ M, Running a Synchronized Protocol Stack without Crystals. In EWSN 2020-ACM International Conference on Embedded Wireless Systems and Networks.
 
 1.  Filip Maksimovic, Brad Wheeler, David C Burnett, Osama Khan, Sahar Mesri, Ioana Suciu, Lydia Lee, Alex Moreno, Arvind Sundararajan, Bob Zhou, Rachel Zoll, Andrew Ng, Tengfei Chang, Xavier Vilajosana, Thomas Watteyne, Ali Niknejad, Kristofer SJ Pister, "A Crystal-Free Single-Chip Micro Mote with Integrated 802.15.4 Compatible Transceiver, sub-mW BLE Compatible Beacon Transmitter, and Cortex M0," 2019 Symposium on VLSI Circuits, Kyoto, Japan, 2019, pp. C88-C89. doi: 10.23919/VLSIC.2019.8777971
 
