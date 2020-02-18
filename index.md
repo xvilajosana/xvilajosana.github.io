@@ -107,12 +107,11 @@ Publications
 
 1.  Tanaka, Yasuyuki; Minet, Pascale; Vučinić, Mališa; Vilajosana, Xavier; Watteyne, Thomas. "YSF: a 6TiSCH Scheduling Function Minimizing Latency of Data Gathering in IIoT". IEEE Internet of Things Journal (Under Review)  (Q1 IF=9.515)
 
-1.  David Gregoratti, Xavier Mestre, Xavier Vilajosana. "Model-Aware Collision Resolution for High-Order Orthogonal Modulations". IEEE Wireless Communications Letters 2019 (Under Review) (Q1 IF=3.37). 
-
 1.  Loch, Adrian; Cano, Cristina; Sim, Gek Hong; Asadi, Arash; Vilajosana, Xavier. "A Channel Measurement Campaign for mmWave Communication in Industrial Settings". IEEE Transactions on Mobile Computing. (under review) (Q1 IF=4.098)
 
 
 ### Journals
+1.  David Gregoratti, Xavier Mestre, Xavier Vilajosana. "Model-Aware Collision Resolution for High-Order Orthogonal Modulations". IEEE Wireless Communications Letters 2020 (Accepted. Pending publication) (Q1 IF=3.37). 
 
 1.  Kousaridas, A.; Schimpe, A.; Euler, S.; Vilajosana, X.; Fallgren, M.; Landi, G.; Moscatelli, F.; Barmpounakis, S.; Vázquez-Gallego, F.; Sedar, R.; Silva, R.; Dizambourg, L.; Wendt, S.; Muehleisen, M.; Eckert, K.; Härri, J.; Alonso-Zarate, J. 5G Cross-Border Operation for Connected and Automated Mobility: Challenges and Solutions. Future Internet 2020, 12, 5.
 
