@@ -226,6 +226,7 @@ Publications
 1.  Daniel Lázaro, Xavier Vilajosana, Joan Manuel Marquès, Angel A. Juan, “A Framework for Dynamic Resource Allocation in Decentralized Environments”, International Journal Multiagent and Grid Systems (MAGS) 2009. ISSN: 1574-1702
 
 ### Conferences
+1.  Raul Mu˜noz, Xavier Vilajosana, et. al "5GCroCo Barcelona Trial Site for Cross-border Anticipated Cooperative Collision Avoidance". European Conference on Networks and Communications 2020 (EUCNC). (Under review)
 
 1.  Chang, T., Watteyne, T., Wheeler, B., Maksimovic, F., Khan, O., Mesri, S., ... & Vilajosana, X. (2020, February). 6TiSCH on SC $ µ $ M, Running a Synchronized Protocol Stack without Crystals. In EWSN 2020-ACM International Conference on Embedded Wireless Systems and Networks.
 
