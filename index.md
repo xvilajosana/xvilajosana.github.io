@@ -111,6 +111,8 @@ Publications
 
 
 ### Journals
+1.  Chang , T.; Watteyne, T.; Wheeler, B.; Maksimovic, F.; Khan, O.; Mesri, S.; Lee, L.; Suciu, I.; Burnett, D.; Vilajosana, X.; Pister, K. 6TiSCH on SCM: Running a Synchronized Protocol Stack without Crystals. Sensors 2020, 20, 1912. (Q1 IF=3.031)
+
 1.  David Gregoratti, Xavier Mestre, Xavier Vilajosana. "Model-Aware Collision Resolution for High-Order Orthogonal Modulations". IEEE Wireless Communications Letters 2020 (Accepted. Pending publication) (Q1 IF=3.37). 
 
 1.  Kousaridas, A.; Schimpe, A.; Euler, S.; Vilajosana, X.; Fallgren, M.; Landi, G.; Moscatelli, F.; Barmpounakis, S.; Vázquez-Gallego, F.; Sedar, R.; Silva, R.; Dizambourg, L.; Wendt, S.; Muehleisen, M.; Eckert, K.; Härri, J.; Alonso-Zarate, J. 5G Cross-Border Operation for Connected and Automated Mobility: Challenges and Solutions. Future Internet 2020, 12, 5.
@@ -361,4 +363,4 @@ Academic Publications
 * * *
 
 \[[Update Entry]( https://github.com/)\]  
-Last modified: Wed, 25 January 2019
+Last modified: Wed, 30 March 2020
