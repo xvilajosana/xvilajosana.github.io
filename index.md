@@ -111,19 +111,21 @@ Publications
 
 
 ### Journals
-1.  Chang , T.; Watteyne, T.; Wheeler, B.; Maksimovic, F.; Khan, O.; Mesri, S.; Lee, L.; Suciu, I.; Burnett, D.; Vilajosana, X.; Pister, K. 6TiSCH on SCM: Running a Synchronized Protocol Stack without Crystals. Sensors 2020, 20, 1912. (Q1 IF=3.031)
+1.  Chang , T.; Watteyne, T.; Wheeler, B.; Maksimovic, F.; Khan, O.; Mesri, S.; Lee, L.; Suciu, I.; Burnett, D.; Vilajosana, X.; Pister, K. 6TiSCH on SuCM: Running a Synchronized Protocol Stack without Crystals. Sensors 2020, 20, 1912. (Q1 IF=3.031)
 
 1.  David Gregoratti, Xavier Mestre, Xavier Vilajosana. "Model-Aware Collision Resolution for High-Order Orthogonal Modulations". IEEE Wireless Communications Letters 2020 (Accepted. Pending publication) (Q1 IF=3.37). 
+
+1.  Ansah, M. R., Sowah, R., Segui, J. M., Katsriku, F., Vilajosana, X., & Banahene, W. (2020). Characterizing Foliage Influence on LoRaWAN Pathloss in a Tropical Vegetative Environment. IET Wireless Sensor Systems. (IF=2.58, Q2)
 
 1.  Kousaridas, A.; Schimpe, A.; Euler, S.; Vilajosana, X.; Fallgren, M.; Landi, G.; Moscatelli, F.; Barmpounakis, S.; Vázquez-Gallego, F.; Sedar, R.; Silva, R.; Dizambourg, L.; Wendt, S.; Muehleisen, M.; Eckert, K.; Härri, J.; Alonso-Zarate, J. 5G Cross-Border Operation for Connected and Automated Mobility: Challenges and Solutions. Future Internet 2020, 12, 5.
 
 1.  Tuset-Peiró, P.; Vázquez-Gallego, F.; Muñoz, J.; Watteyne, T.; Alonso-Zarate, J.; Vilajosana, X. Experimental Interference Robustness Evaluation of IEEE 802.15.4-2015 OQPSK-DSSS and SUN-OFDM Physical Layers for Industrial Communications. Electronics 2019, 8, 1045. (Q2 IF=1.764)
 
-1.  Xavier Vilajosana, Thomas Watteyne, Tengfei Chang, Malisa Vucinic, Simon Duquennoy, Pascal Thubert. “IETF 6TISCH: A tutorial”. IEEE Communications Surveys and Tutorials. 2018. (Accepted. Pending Publication) (Q1 IF=22.973)
+1.  Xavier Vilajosana, Thomas Watteyne, Tengfei Chang, Malisa Vucinic, Simon Duquennoy, Pascal Thubert. “IETF 6TISCH: A tutorial”. IEEE Communications Surveys and Tutorials. 2020. (Q1 IF=22.973)
 
 1.  Ioana Suciu, Filip Maksimovic, Brad Wheeler, David Burnett, Osama Khan,  Thomas Watteyne,  Xavier Vilajosana, Kristofer S.J. Pister. "Dynamic Channel Calibration on a Crystal-Free Mote-on-a-Chip" IEEE Access. 2019 (Q1 IF=4.098)
 
-1.  Elvina Gindullina, Leonardo Badia, Xavier Vilajosana. Energy Modeling and Adaptive Sampling Algorithms for Energy Harvesting Powered Nodes with Sampling Rate Limitations. Wiley Transactions on Emerging Telecom Technologies (ETT) 2019 (Q3 IF = 1.606) 
+1.  Gindullina, E, Badia, L, Vilajosana, X. Energy modeling and adaptive sampling algorithms for energy‐harvesting powered nodes with sampling rate limitations. Trans Emerging Tel Tech. 2020; 31:e3754. https://doi.org/10.1002/ett.3754 (IF=1.258, Q3)
 
 1.  Xavier Vilajosana, Thomas Watteyne, Malisa Vucinic, Tengfei Chang, Kristofer S.J. Pister. "6TiSCH: Industrial Performance for IPv6 Internet of Things Networks". Special issue Real–Time Networks and Protocols for Factory Automation and Process Control Systems. IEEE Proceedings Journal. 2019. (Q1 IF=9.107)
 
@@ -230,7 +232,7 @@ Publications
 ### Conferences
 1.  Raul Mu˜noz, Xavier Vilajosana, et. al "5GCroCo Barcelona Trial Site for Cross-border Anticipated Cooperative Collision Avoidance". European Conference on Networks and Communications 2020 (EUCNC). (Under review)
 
-1.  Chang, T., Watteyne, T., Wheeler, B., Maksimovic, F., Khan, O., Mesri, S., ... & Vilajosana, X. (2020, February). 6TiSCH on SC $ µ $ M, Running a Synchronized Protocol Stack without Crystals. In EWSN 2020-ACM International Conference on Embedded Wireless Systems and Networks.
+1.  Chang, T., Watteyne, T., Wheeler, B., Maksimovic, F., Khan, O., Mesri, S., ... & Vilajosana, X. (2020, February). 6TiSCH on SCuM, Running a Synchronized Protocol Stack without Crystals. In EWSN 2020-ACM International Conference on Embedded Wireless Systems and Networks.
 
 1.  Filip Maksimovic, Brad Wheeler, David C Burnett, Osama Khan, Sahar Mesri, Ioana Suciu, Lydia Lee, Alex Moreno, Arvind Sundararajan, Bob Zhou, Rachel Zoll, Andrew Ng, Tengfei Chang, Xavier Vilajosana, Thomas Watteyne, Ali Niknejad, Kristofer SJ Pister, "A Crystal-Free Single-Chip Micro Mote with Integrated 802.15.4 Compatible Transceiver, sub-mW BLE Compatible Beacon Transmitter, and Cortex M0," 2019 Symposium on VLSI Circuits, Kyoto, Japan, 2019, pp. C88-C89. doi: 10.23919/VLSIC.2019.8777971
 
