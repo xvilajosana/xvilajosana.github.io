@@ -101,9 +101,12 @@ Patents
 Publications
 ------------
 ### Journals Under Review
+
+1.  Tengfei Chang, Thomas Watteyne, Filip Maksimovic, Brad Wheeler, David C. Burnett, Titan Yuan, Xavier Vilajosana, Kris Pister. "QuickCal: Assisted Calibrationfor Crystal-Free Micro-Motes". IEEE Internet Of Things Journal. 2020 (Q1 IF=9.515)(under review)
+
 1.  Pere Tuset-Peiro, Ruan D. Gomes, Pascal Thubert, Xavier Vilajosana "Evaluating IEEE 802.15.4g SUN for Dependable Low-Power Wireless Communications In Industrial Scenarios. MDPI Sensors (under review)
 
-1.  Borja Martinez, Cristina Cano, Xavier Vilajosana. "Debunking Wireless Sensor Network myths". IEEE Wireless Communications Magazine. (under review)
+1.  Borja Martinez, Cristina Cano, Xavier Vilajosana. "Debunking Wireless Sensor Network myths". IEEE Communications Magazine. (under review)
 
 1.  Tanaka, Yasuyuki; Minet, Pascale; Vučinić, Mališa; Vilajosana, Xavier; Watteyne, Thomas. "YSF: a 6TiSCH Scheduling Function Minimizing Latency of Data Gathering in IIoT". IEEE Internet of Things Journal (Under Review)  (Q1 IF=9.515)
 
