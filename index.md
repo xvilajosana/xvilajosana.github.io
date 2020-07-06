@@ -102,9 +102,11 @@ Publications
 ------------
 ### Journals Under Review
 
-1.  Tengfei Chang, Thomas Watteyne, Filip Maksimovic, Brad Wheeler, David C. Burnett, Titan Yuan, Xavier Vilajosana, Kris Pister. "QuickCal: Assisted Calibrationfor Crystal-Free Micro-Motes". IEEE Internet Of Things Journal. 2020 (Q1 IF=9.515)(under review)
+1.  Domenico Solimini, Pere Tuset-Peiró, Ruan D. Gomes, Xavier Vilajosana. Towards Reliable IEEE 802.15.4g SUN with Adaptive Modulation Selection and Re-Transmission Shaping. Special Issue on “Intelligent Wireless Technologies for Future Sensor Networks”. MDPI Sensors. July 2020 (To be submitted, IF=3.275, Q1).
 
-1.  Pere Tuset-Peiro, Ruan D. Gomes, Pascal Thubert, Xavier Vilajosana "Evaluating IEEE 802.15.4g SUN for Dependable Low-Power Wireless Communications In Industrial Scenarios. MDPI Sensors (under review)
+1.  Pere Tuset-Peiró, Ruan D. Gomes, Pascal Thubert, Eva Cuerva, Eduard Egusquiza, Xavier Vilajosana. A dataset to evaluate IEEE 802.15.4g SUN for Dependable Low-Power Wireless Communications in Industrial Scenarios. MDPI Data. June 2020 (Under review, IF=2.1/Scopus, Q2, Preprint).
+
+1.  Tengfei Chang, Thomas Watteyne, Filip Maksimovic, Brad Wheeler, David C. Burnett, Titan Yuan, Xavier Vilajosana, Kris Pister. "QuickCal: Assisted Calibrationfor Crystal-Free Micro-Motes". IEEE Internet Of Things Journal. 2020 (Q1 IF=9.515)(under review)
 
 1.  Borja Martinez, Cristina Cano, Xavier Vilajosana. "Debunking Wireless Sensor Network myths". IEEE Communications Magazine. (under review)
 
@@ -233,6 +235,13 @@ Publications
 1.  Daniel Lázaro, Xavier Vilajosana, Joan Manuel Marquès, Angel A. Juan, “A Framework for Dynamic Resource Allocation in Decentralized Environments”, International Journal Multiagent and Grid Systems (MAGS) 2009. ISSN: 1574-1702
 
 ### Conferences
+
+1.  Domenico Solimini, Pere Tuset-Peiró, Guillem Boquet, Xavier Vilajosana, Francisco Vázquez-Gallego. Improving Link Reliability of IEEE 802.15.4g SUN with Re-Transmission Shaping. 7th ACM International Symposium on Performance Evaluation of Wireless Ad Hoc, Sensor, and Ubiquitous Networks (PE-WASUN 2020). Alicante, Spain. November 2020.
+
+1.  Ruan Delgado Gomes, Pere Tuset-Peiró, Xavier Vilajosana. Improving Link Reliability of IEEE 802.15.4g SUN with Adaptive Modulation Diversity. IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC 2020). London, United Kingdom. August 2020 (CORE=B).
+
+1.  Pere Tuset-Peiró, Ferran Adelantado, Xavier Vilajosana, Ruan Delgado Gomes. Reliability through modulation diversity: can combining multiple IEEE 802.15.4-2015 SUN modulations improve PDR? 25th IEEE Symposium on Computers and Communications (ISCC 2020). Rennes, France. July 2020 (CORE=B).
+
 1.  Raul Mu˜noz, Xavier Vilajosana, et. al "5GCroCo Barcelona Trial Site for Cross-border Anticipated Cooperative Collision Avoidance". European Conference on Networks and Communications 2020 (EUCNC). (Under review)
 
 1.  Chang, T., Watteyne, T., Wheeler, B., Maksimovic, F., Khan, O., Mesri, S., ... & Vilajosana, X. (2020, February). 6TiSCH on SCuM, Running a Synchronized Protocol Stack without Crystals. In EWSN 2020-ACM International Conference on Embedded Wireless Systems and Networks.
