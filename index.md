@@ -116,6 +116,8 @@ Publications
 
 ### Journals
 
+1.  Richardson Ansah, Margaret; Sowah, Robert A; Melià-Seguí, Joan; Katsriku, Ferdinand A; Vilajosana, Xavier; Owusu Banahene, Wiafe: 'Characterising foliage influence on LoRaWAN pathloss in a tropical vegetative environment', IET Wireless Sensor Systems, 2020, DOI: 10.1049/iet-wss.2019.0201 IET Digital Library, https://digital-library.theiet.org/content/journals/10.1049/iet-wss.2019.0201 (Q2, IF=2.58)
+
 1.  Chang , T.; Watteyne, T.; Wheeler, B.; Maksimovic, F.; Khan, O.; Mesri, S.; Lee, L.; Suciu, I.; Burnett, D.; Vilajosana, X.; Pister, K. 6TiSCH on SuCM: Running a Synchronized Protocol Stack without Crystals. Sensors 2020, 20, 1912. (Q1 IF=3.031)
 
 1.  David Gregoratti, Xavier Mestre, Xavier Vilajosana. "Model-Aware Collision Resolution for High-Order Orthogonal Modulations". IEEE Wireless Communications Letters 2020 (Accepted. Pending publication) (Q1 IF=3.37). 
