@@ -59,8 +59,7 @@ Patents
   
 1.  Xavier Vilajosana, Marina Ferran Farras, Esteve Comas “Increased fusing reliability by fuse lamp load balancing in 3D Multijet Fusion” 84471365. PD020365PCT. May 2016.
   
-10.  Vilajosana, Xavier, Sergi Puigardeu, Pol Fornos, David Ramirez, Sacha de Pena  
-    BUILD SURFACE HEAT CONTROL. PCT/EP2016/056961. April 2016
+10.  Vilajosana, Xavier, Sergi Puigardeu, Pol Fornos, David Ramirez, Sacha de Pena BUILD SURFACE HEAT CONTROL. PCT/EP2016/056961. April 2016
   
 11.  Vilajosana, Xavier, Cortes, Sebastia, Dominguez, Pablo, Diego Javier Mostaccio, Sascha de Pena “Detecting Recoater and Powder Delivery failures using thermal information in 3D MJF”.PCT/EP2016/056059. April 2016
   
@@ -116,6 +115,7 @@ Publications
 
 
 ### Journals
+
 1.  Chang , T.; Watteyne, T.; Wheeler, B.; Maksimovic, F.; Khan, O.; Mesri, S.; Lee, L.; Suciu, I.; Burnett, D.; Vilajosana, X.; Pister, K. 6TiSCH on SuCM: Running a Synchronized Protocol Stack without Crystals. Sensors 2020, 20, 1912. (Q1 IF=3.031)
 
 1.  David Gregoratti, Xavier Mestre, Xavier Vilajosana. "Model-Aware Collision Resolution for High-Order Orthogonal Modulations". IEEE Wireless Communications Letters 2020 (Accepted. Pending publication) (Q1 IF=3.37). 
@@ -377,4 +377,4 @@ Academic Publications
 * * *
 
 \[[Update Entry]( https://github.com/)\]  
-Last modified: Wed, 30 March 2020
+Last modified: Wed, 7 July 2020
