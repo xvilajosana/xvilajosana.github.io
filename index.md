@@ -122,8 +122,6 @@ Publications
 
 1.  David Gregoratti, Xavier Mestre, Xavier Vilajosana. "Model-Aware Collision Resolution for High-Order Orthogonal Modulations". IEEE Wireless Communications Letters 2020 (Accepted. Pending publication) (Q1 IF=3.37). 
 
-1.  Ansah, M. R., Sowah, R., Segui, J. M., Katsriku, F., Vilajosana, X., & Banahene, W. (2020). Characterizing Foliage Influence on LoRaWAN Pathloss in a Tropical Vegetative Environment. IET Wireless Sensor Systems. (IF=2.58, Q2)
-
 1.  Kousaridas, A.; Schimpe, A.; Euler, S.; Vilajosana, X.; Fallgren, M.; Landi, G.; Moscatelli, F.; Barmpounakis, S.; Vázquez-Gallego, F.; Sedar, R.; Silva, R.; Dizambourg, L.; Wendt, S.; Muehleisen, M.; Eckert, K.; Härri, J.; Alonso-Zarate, J. 5G Cross-Border Operation for Connected and Automated Mobility: Challenges and Solutions. Future Internet 2020, 12, 5.
 
 1.  Tuset-Peiró, P.; Vázquez-Gallego, F.; Muñoz, J.; Watteyne, T.; Alonso-Zarate, J.; Vilajosana, X. Experimental Interference Robustness Evaluation of IEEE 802.15.4-2015 OQPSK-DSSS and SUN-OFDM Physical Layers for Industrial Communications. Electronics 2019, 8, 1045. (Q2 IF=1.764)
