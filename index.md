@@ -101,11 +101,9 @@ Publications
 ------------
 ### Journals Under Review
 
+1.  Guillem Boquet, Pere Tuset-Peiró, Ferran Adelantado, Thomas Watteyne, Xavier Vilajosana. LoRa: Overview and Performance Analysis. IEEE Communications Magazine. August 2020 (Under Review, IF=10.356, Q1).
+
 1.  Domenico Solimini, Pere Tuset-Peiró, Ruan D. Gomes, Xavier Vilajosana. Towards Reliable IEEE 802.15.4g SUN with Adaptive Modulation Selection and Re-Transmission Shaping. Special Issue on “Intelligent Wireless Technologies for Future Sensor Networks”. MDPI Sensors. July 2020 (To be submitted, IF=3.275, Q1).
-
-1.  Pere Tuset-Peiró, Ruan D. Gomes, Pascal Thubert, Eva Cuerva, Eduard Egusquiza, Xavier Vilajosana. A dataset to evaluate IEEE 802.15.4g SUN for Dependable Low-Power Wireless Communications in Industrial Scenarios. MDPI Data. June 2020 (Under review, IF=2.1/Scopus, Q2, Preprint).
-
-1.  Tengfei Chang, Thomas Watteyne, Filip Maksimovic, Brad Wheeler, David C. Burnett, Titan Yuan, Xavier Vilajosana, Kris Pister. "QuickCal: Assisted Calibrationfor Crystal-Free Micro-Motes". IEEE Internet Of Things Journal. 2020 (Q1 IF=9.515)(under review)
 
 1.  Borja Martinez, Cristina Cano, Xavier Vilajosana. "Debunking Wireless Sensor Network myths". IEEE Communications Magazine. (under review)
 
@@ -115,6 +113,10 @@ Publications
 
 
 ### Journals
+
+1.  Tengfei Chang, Thomas Watteyne, Filip Maksimovic, Brad Wheeler, David C. Burnett, Titan Yuan, Xavier Vilajosana, Kris Pister. "QuickCal: Assisted Calibrationfor Crystal-Free Micro-Motes". IEEE Internet Of Things Journal. 2020 (Q1 IF=9.515)
+
+1.  Pere Tuset-Peiró, Ruan D. Gomes, Pascal Thubert, Eva Cuerva, Eduard Egusquiza, Xavier Vilajosana. A dataset to evaluate IEEE 802.15.4g SUN for Dependable Low-Power Wireless Communications in Industrial Scenarios. MDPI Data. June 2020 (IF=2.1/Scopus, Q2,).
 
 1.  Richardson Ansah, Margaret; Sowah, Robert A; Melià-Seguí, Joan; Katsriku, Ferdinand A; Vilajosana, Xavier; Owusu Banahene, Wiafe: 'Characterising foliage influence on LoRaWAN pathloss in a tropical vegetative environment', IET Wireless Sensor Systems, 2020, DOI: 10.1049/iet-wss.2019.0201 IET Digital Library, https://digital-library.theiet.org/content/journals/10.1049/iet-wss.2019.0201 (Q2, IF=2.58)
 
