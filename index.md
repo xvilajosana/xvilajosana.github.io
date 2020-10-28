@@ -100,19 +100,20 @@ Patents
 Publications
 ------------
 ### Journals Under Review
-
-1.  Guillem Boquet, Pere Tuset-Peiró, Ferran Adelantado, Thomas Watteyne, Xavier Vilajosana. LoRa: Overview and Performance Analysis. IEEE Communications Magazine. August 2020 (Under Review, IF=10.356, Q1).
+1.  Borja Martinez, Xavier Vilajosana "Exploiting the Solar Energy Surplus for Edge Computing". IEEE Transactions on Sustainable Computing (Under review)
 
 1.  Domenico Solimini, Pere Tuset-Peiró, Ruan D. Gomes, Xavier Vilajosana. Towards Reliable IEEE 802.15.4g SUN with Adaptive Modulation Selection and Re-Transmission Shaping. Special Issue on “Intelligent Wireless Technologies for Future Sensor Networks”. MDPI Sensors. July 2020 (To be submitted, IF=3.275, Q1).
 
-1.  Borja Martinez, Cristina Cano, Xavier Vilajosana. "Debunking Wireless Sensor Network myths". IEEE Communications Magazine. (under review)
+1.  Borja Martinez, Cristina Cano, Xavier Vilajosana. "Debunking Wireless Sensor Network myths". IEEE IoT Magazine. (under review)
 
 1.  Tanaka, Yasuyuki; Minet, Pascale; Vučinić, Mališa; Vilajosana, Xavier; Watteyne, Thomas. "YSF: a 6TiSCH Scheduling Function Minimizing Latency of Data Gathering in IIoT". IEEE Internet of Things Journal (Under Review)  (Q1 IF=9.515)
 
-1.  Loch, Adrian; Cano, Cristina; Sim, Gek Hong; Asadi, Arash; Vilajosana, Xavier. "A Channel Measurement Campaign for mmWave Communication in Industrial Settings". IEEE Transactions on Mobile Computing. (under review) (Q1 IF=4.098)
-
 
 ### Journals
+
+1.  Cano, Cristina; Sim, Gek Hong; Asadi, Arash; Vilajosana, Xavier. "A Channel Measurement Campaign for mmWave Communication in Industrial Settings". IEEE Transactions on Wireless Communications. (Q1 IF=6.779)
+
+1.  Guillem Boquet, Pere Tuset-Peiró, Ferran Adelantado, Thomas Watteyne, Xavier Vilajosana. LoRa-E: Overview and Performance Analysis. IEEE Communications Magazine. August 2020 (Accepted pending publication, IF=10.356, Q1).
 
 1.  Tengfei Chang, Thomas Watteyne, Filip Maksimovic, Brad Wheeler, David C. Burnett, Titan Yuan, Xavier Vilajosana, Kris Pister. "QuickCal: Assisted Calibrationfor Crystal-Free Micro-Motes". IEEE Internet Of Things Journal. 2020 (Q1 IF=9.515)
 
