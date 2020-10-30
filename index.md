@@ -37,6 +37,8 @@ Internet Drafts (IETF)
 
 Patents
 -------
+1.  Jon Lejarreta, Joan Melia, Xavier Vilajosana. "Systems for detecting moisture and methods". PCT/EP2020/080466. OEPM. 29 October 2020
+
 1.  Borja Martinez, Xavier Vilajosana, Cristina Cano, Marc Guerrero. "ENABLING A COMPUTING RESOURCE OF A COMPUTING POOL". PCT/EP2019/086049. EPO. 19 December 2019
 
 1.  Xavier Vilajosana, Joan Melia. "MOISTURE SENSORS". PCT/EP18382616.3. OEPM. 17 August 2018
