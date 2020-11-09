@@ -102,6 +102,11 @@ Patents
 Publications
 ------------
 ### Journals Under Review
+
+1.  Jon Lejarreta, Joan Melia, Xavier Vilajosana. "Passive Moisture Sensing under Moving Conditions for Automaker Smart Manufacturing". IEEE Internet of Things Journal. November 2020. (Under review, IF=9.515, Q1).
+
+1.  Apostolos Kousaridas, Mikael Fallgren, Edwin Fischer, Francesca Moscatelli, Ricard Vilalta, Maciej Mühleisen, Sokratis Barmpounakis, Xavier Vilajosana, Sebastian Euler, Bruno Tossou, and Jesus Alonso-Zarate. "5G Vehicle-to-Everything (V2X) services in cross-border environments: Standardization and Challenges".  IEEE Communications Standards Magazine. November 2020 (Under review, IF=11.05, Q1).
+
 1.  Borja Martinez, Xavier Vilajosana "Exploiting the Solar Energy Surplus for Edge Computing". IEEE Transactions on Sustainable Computing (Under review)
 
 1.  Domenico Solimini, Pere Tuset-Peiró, Ruan D. Gomes, Xavier Vilajosana. Towards Reliable IEEE 802.15.4g SUN with Adaptive Modulation Selection and Re-Transmission Shaping. Special Issue on “Intelligent Wireless Technologies for Future Sensor Networks”. MDPI Sensors. July 2020 (To be submitted, IF=3.275, Q1).
