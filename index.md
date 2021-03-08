@@ -105,11 +105,9 @@ Publications
 
 1.  Jon Lejarreta, Joan Melia, Xavier Vilajosana. "Passive Moisture Sensing under Moving Conditions for Automaker Smart Manufacturing". IEEE Internet of Things Journal. November 2020. (Under review, IF=9.515, Q1).
 
-1.  Apostolos Kousaridas, Mikael Fallgren, Edwin Fischer, Francesca Moscatelli, Ricard Vilalta, Maciej Mühleisen, Sokratis Barmpounakis, Xavier Vilajosana, Sebastian Euler, Bruno Tossou, and Jesus Alonso-Zarate. "5G Vehicle-to-Everything (V2X) services in cross-border environments: Standardization and Challenges".  IEEE Communications Standards Magazine. November 2020 (Under review, IF=11.05, Q1).
-
 1.  Borja Martinez, Xavier Vilajosana "Exploiting the Solar Energy Surplus for Edge Computing". IEEE Transactions on Sustainable Computing (Under review)
 
-1.  Domenico Solimini, Pere Tuset-Peiró, Ruan D. Gomes, Xavier Vilajosana. Towards Reliable IEEE 802.15.4g SUN with Adaptive Modulation Selection and Re-Transmission Shaping. Special Issue on “Intelligent Wireless Technologies for Future Sensor Networks”. MDPI Sensors. July 2020 (To be submitted, IF=3.275, Q1).
+1.  Domenico Solimini, Pere Tuset-Peiró, Guillem Boquet, Ruan D. Gomes, Francisco Vázquez, Xavier Vilajosana. Towards Reliable IEEE 802.15.4g SUN with Re-Transmission Shaping and Adaptive Modulation Selection. Special Issue “Internet of Things”, Journal of Signal Processing Systems. March 2021 (Q3 IF=1.013) under review
 
 1.  Borja Martinez, Cristina Cano, Xavier Vilajosana. "Debunking Wireless Sensor Network myths". IEEE IoT Magazine. (under review)
 
@@ -117,6 +115,7 @@ Publications
 
 
 ### Journals
+1.  Apostolos Kousaridas, Mikael Fallgren, Edwin Fischer, Francesca Moscatelli, Ricard Vilalta, Maciej Mühleisen, Sokratis Barmpounakis, Xavier Vilajosana, Sebastian Euler, Bruno Tossou, and Jesus Alonso-Zarate. "5G Vehicle-to-Everything (V2X) services in cross-border environments: Standardization and Challenges".  IEEE Communications Standards Magazine. March 2021 (Accepted Pending publication, IF=11.05, Q1).
 
 1.  Cano, Cristina; Sim, Gek Hong; Asadi, Arash; Vilajosana, Xavier. "A Channel Measurement Campaign for mmWave Communication in Industrial Settings". IEEE Transactions on Wireless Communications. (Q1 IF=6.779)
 
