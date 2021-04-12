@@ -102,7 +102,6 @@ Patents
 Publications
 ------------
 ### Journals Under Review
-1.  Marc Guerrero, Cristina Cano, Xavier Vilajosana, Pascal Thubert. "Towards Dependable IoT via Interface Selection: Predicting Packet Delivery at the End Node in LoRaWAN Networks Authors". MDPI Sensors. March 2021. (Under review, IF=3.275, Q1)
 
 1.  Jon Lejarreta, Joan Melia, Xavier Vilajosana. "Passive Moisture Sensing under Moving Conditions for Automaker Smart Manufacturing". IEEE Internet of Things Journal. November 2020. (Under review, IF=9.515, Q1).
 
@@ -114,6 +113,7 @@ Publications
 
 
 ### Journals
+1. Guerrero, M.; Cano, C.; Vilajosana, X.; Thubert, P. Towards Dependable IoT via Interface Selection: Predicting Packet Delivery at the End Node in LoRaWAN Networks. Sensors 2021, 21, 2707. https://doi.org/10.3390/s21082707 (IF=3.275, Q1) 
 
 1.  Roshan Sedar, Francisco Vázquez-Gallego, Ramon Casellas, Ricard Vilalta, Raul Muñoz, Rodrigo Silva, Laurent Dizambourg, Antonio Eduardo Fernandez Barciela, Xavier Vilajosana, Soumya Kanti Datta, Jérôme Härri, Jesus Alonso-Zarate. "Standards-compliant Multi-protocol On-Board Unit for the Evaluation of Connected and Automated Mobility Services in Multi-vendor Environments". MDPI Sensors 2021. (IF=3.275, Q1) 
 
