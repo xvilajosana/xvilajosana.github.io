@@ -26,7 +26,7 @@ Internet Drafts (IETF)
   
 3.  E.Grosmann, C.Gunter, P.Thubert, X. Vilajosana, et. al, “Deterministic networking use cases”. IETF 2019. [RFC8578](https://tools.ietf.org/html/rfc8578)
   
-4.  Tengfei Chang, Malisa Vucinic, Xavier Vilajosana, S. Duquennoy, D. Dujovne. IETF Internet draft. “6TiSCH Minimal Scheduling Function (MSF). IETF 2018. draft-ietf-6tisch-msf
+4.  Tengfei Chang, Malisa Vucinic, Xavier Vilajosana, S. Duquennoy, D. Dujovne. IETF Internet draft. “6TiSCH Minimal Scheduling Function (MSF). IETF 2021. [RFC9033](https://tools.ietf.org/html/rfc9033) 
   
 
 ### Other non-WG drafts
