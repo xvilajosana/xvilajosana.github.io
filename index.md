@@ -27,6 +27,8 @@ Internet Drafts (IETF)
 3.  E.Grosmann, C.Gunter, P.Thubert, X. Vilajosana, et. al, “Deterministic networking use cases”. IETF 2019. [RFC8578](https://tools.ietf.org/html/rfc8578)
   
 4.  Tengfei Chang, Malisa Vucinic, Xavier Vilajosana, S. Duquennoy, D. Dujovne. IETF Internet draft. “6TiSCH Minimal Scheduling Function (MSF). IETF 2021. [RFC9033](https://tools.ietf.org/html/rfc9033) 
+
+1. Pascal Thubert,Thomas Watteyne, Xavier Vilajosana, Kris Pister,  Mališa Vučinić, Michael Richardson, Tero Kivinen, Maria Rita Palattella, Simon Duquennoy, Qin Wang, Rene Struik, Robert Assimiti. IETF Internet draft. An Architecture for IPv6 over the Time-Slotted Channel Hopping (TSCH) Mode of IEEE 802.15.4. IETF 2021. [RFC9030](https://tools.ietf.org/html/rfc9030) 
   
 
 ### Other non-WG drafts
