@@ -251,6 +251,8 @@ Publications
 
 ### Conferences
 
+1. Dimitrios Klonidis, Dimitris Apostolopoulos, Georgios P. Katsikas, Giannis Giannoulis, Konstantina Kanta, Kostas Tokas, Thanos Xirofotos, Raul Muñoz, Francesca Moscatelli, Guy Torfs, Christos Vagionas, David Larrabeiti Lopez, Zhongxia Simon He, Janez Sterle, Dotan Levi, George Lyberopoulos, Victor Lopez Alvarez, Eleni Trouva, Yigal Leiba, Xavier Vilajosana, J. Carles Terés Casals, Hercules Avramopoulos. Int5Gent: An Integrated End-To-End System Platform for Verticals and Data Plane Solutions Beyond 5G. 2021 Joint European Conference on Networks and Communications & 6G Summit (EuCNC/6G Summit): 6G Visions (6GV). Porto, Portugal. 8 June 2021
+
 1.  Domenico Solimini, Pere Tuset-Peiró, Guillem Boquet, Xavier Vilajosana, Francisco Vázquez-Gallego. Improving Link Reliability of IEEE 802.15.4g SUN with Re-Transmission Shaping. 7th ACM International Symposium on Performance Evaluation of Wireless Ad Hoc, Sensor, and Ubiquitous Networks (PE-WASUN 2020). Alicante, Spain. November 2020.
 
 1.  Ruan Delgado Gomes, Pere Tuset-Peiró, Xavier Vilajosana. Improving Link Reliability of IEEE 802.15.4g SUN with Adaptive Modulation Diversity. IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC 2020). London, United Kingdom. August 2020 (CORE=B).
