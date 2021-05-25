@@ -125,7 +125,7 @@ Publications
 
 1.  Cano, Cristina; Sim, Gek Hong; Asadi, Arash; Vilajosana, Xavier. "A Channel Measurement Campaign for mmWave Communication in Industrial Settings". IEEE Transactions on Wireless Communications. (Q1 IF=6.779)
 
-1.  Guillem Boquet, Pere Tuset-Peiró, Ferran Adelantado, Thomas Watteyne, Xavier Vilajosana. LoRa-E: Overview and Performance Analysis. IEEE Communications Magazine. August 2020 (Accepted pending publication, IF=10.356, Q1).
+1.  G. Boquet, P. Tuset-Peiró, F. Adelantado, T. Watteyne and X. Vilajosana, "LR-FHSS: Overview and Performance Analysis," in IEEE Communications Magazine, vol. 59, no. 3, pp. 30-36, March 2021, doi: 10.1109/MCOM.001.2000627(IF=10.356, Q1).
 
 1.  Tengfei Chang, Thomas Watteyne, Filip Maksimovic, Brad Wheeler, David C. Burnett, Titan Yuan, Xavier Vilajosana, Kris Pister. "QuickCal: Assisted Calibrationfor Crystal-Free Micro-Motes". IEEE Internet Of Things Journal. 2020 (Q1 IF=9.515)
 
@@ -135,7 +135,7 @@ Publications
 
 1.  Chang , T.; Watteyne, T.; Wheeler, B.; Maksimovic, F.; Khan, O.; Mesri, S.; Lee, L.; Suciu, I.; Burnett, D.; Vilajosana, X.; Pister, K. 6TiSCH on SuCM: Running a Synchronized Protocol Stack without Crystals. Sensors 2020, 20, 1912. (Q1 IF=3.031)
 
-1.  David Gregoratti, Xavier Mestre, Xavier Vilajosana. "Model-Aware Collision Resolution for High-Order Orthogonal Modulations". IEEE Wireless Communications Letters 2020 (Accepted. Pending publication) (Q1 IF=3.37). 
+1.  David Gregoratti, Xavier Mestre, Xavier Vilajosana. "Model-Aware Collision Resolution for High-Order Orthogonal Modulations". IEEE Wireless Communications Letters 2020 (Q1 IF=3.37). 
 
 1.  Kousaridas, A.; Schimpe, A.; Euler, S.; Vilajosana, X.; Fallgren, M.; Landi, G.; Moscatelli, F.; Barmpounakis, S.; Vázquez-Gallego, F.; Sedar, R.; Silva, R.; Dizambourg, L.; Wendt, S.; Muehleisen, M.; Eckert, K.; Härri, J.; Alonso-Zarate, J. 5G Cross-Border Operation for Connected and Automated Mobility: Challenges and Solutions. Future Internet 2020, 12, 5.
 
