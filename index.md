@@ -105,16 +105,18 @@ Publications
 ------------
 ### Journals Under Review
 
-1.  Jon Lejarreta, Joan Melia, Xavier Vilajosana. "Passive Moisture Sensing under Moving Conditions for Automaker Smart Manufacturing". IEEE Internet of Things Journal. November 2020. (Under review, IF=9.515, Q1).
+1. Ioana Suciu, Guillem Boquet, Pere Tuset-Peiró, Xavier Vilajosana. ADO: An Open Digital End-to-End Aquaculture Platform. Elsevier HardwareX. October 2021 (SJR=0.676, Q1).
 
-1.  Domenico Solimini, Pere Tuset-Peiró, Guillem Boquet, Ruan D. Gomes, Francisco Vázquez, Xavier Vilajosana. Towards Reliable IEEE 802.15.4g SUN with Re-Transmission Shaping and Adaptive Modulation Selection. Special Issue “Internet of Things”, Journal of Signal Processing Systems. March 2021 (Under review, Q3 IF=1.013)
-
-1.  Borja Martinez, Cristina Cano, Xavier Vilajosana. "Debunking Wireless Sensor Network myths". IEEE IoT Magazine. (under review)
-
-1.  Tanaka, Yasuyuki; Minet, Pascale; Vučinić, Mališa; Vilajosana, Xavier; Watteyne, Thomas. "YSF: a 6TiSCH Scheduling Function Minimizing Latency of Data Gathering in IIoT". IEEE Internet of Things Journal (Under Review)  (Q1 IF=9.515)
+1. Borja Martinez, Cristina Cano, Xavier Vilajosana. "Debunking Wireless Sensor Network myths". IEEE Access. (under review)
 
 
 ### Journals
+1. Tanaka, Yasuyuki; Minet, Pascale; Vučinić, Mališa; Vilajosana, Xavier; Watteyne, Thomas. "YSF: a 6TiSCH Scheduling Function Minimizing Latency of Data Gathering in IIoT". IEEE Internet of Things Journal (Q1, IF=9.515)
+
+1. Domenico Solimini, Pere Tuset-Peiró, Guillem Boquet, Ruan D. Gomes, Francisco Vázquez-Gallego, Xavier Vilajosana. Towards Reliable IEEE 802.15.4g SUN with Adaptive Modulation Selection and Re-Transmission Shaping. Special Issue “Internet of Things”, Journal of Signal Processing Systems. April 2021 (Q4, IF=1.348).
+
+1. Lejarreta-Andrés, J., Melià-Seguí, J., & Vilajosana, X. (2021). WiLD: Wireless Passive Moisture Sensing Under Moving Conditions for Smart Manufacturing. IEEE Sensors Journal, 21(17), 19541-19549. (Q2, IF=3.073) 
+
 1. Guerrero, M.; Cano, C.; Vilajosana, X.; Thubert, P. Towards Dependable IoT via Interface Selection: Predicting Packet Delivery at the End Node in LoRaWAN Networks. Sensors 2021, 21, 2707. https://doi.org/10.3390/s21082707 (IF=3.275, Q1) 
 
 1.  Roshan Sedar, Francisco Vázquez-Gallego, Ramon Casellas, Ricard Vilalta, Raul Muñoz, Rodrigo Silva, Laurent Dizambourg, Antonio Eduardo Fernandez Barciela, Xavier Vilajosana, Soumya Kanti Datta, Jérôme Härri, Jesus Alonso-Zarate. "Standards-compliant Multi-protocol On-Board Unit for the Evaluation of Connected and Automated Mobility Services in Multi-vendor Environments". MDPI Sensors 2021. (IF=3.275, Q1) 
@@ -394,4 +396,4 @@ Academic Publications
 * * *
 
 \[[Update Entry]( https://github.com/)\]  
-Last modified: Wed, 7 July 2020
+Last modified: Thu, 30 September 2021
