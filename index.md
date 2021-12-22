@@ -109,15 +109,19 @@ Publications
 
 1. Borja Martinez, Cristina Cano, Xavier Vilajosana. "Debunking Wireless Sensor Network myths". IEEE Access. (under review)
 
+1. Panagiotis Kontopoulos, Sokratis Barmpounakis, Maciej Muehleisen, Frederic Gardes, Roshan Sedar, Francisco Vazquez-Gallego, Ramon Casellas, Francesca Moscatelli, Xavier Vilajosana, Andreas Schimpe and Jerome Harri. "Service performance measurement methods for 5G Connected and Automated Mobility use cases" IEEE Vehicular Technology Magazine (Under review)
+
+1. Trifun Savic, Xavier Vilajosana, Thomas Wattayne "Constrained Localization: A Survey". IEEE ACCESS (under review)
+
 
 ### Journals
-1. Tanaka, Yasuyuki; Minet, Pascale; Vučinić, Mališa; Vilajosana, Xavier; Watteyne, Thomas. "YSF: a 6TiSCH Scheduling Function Minimizing Latency of Data Gathering in IIoT". IEEE Internet of Things Journal (Q1, IF=9.515)
+1.  Tanaka, Yasuyuki; Minet, Pascale; Vučinić, Mališa; Vilajosana, Xavier; Watteyne, Thomas. "YSF: a 6TiSCH Scheduling Function Minimizing Latency of Data Gathering in IIoT". IEEE Internet of Things Journal (Q1, IF=9.515)
 
-1. Domenico Solimini, Pere Tuset-Peiró, Guillem Boquet, Ruan D. Gomes, Francisco Vázquez-Gallego, Xavier Vilajosana. Towards Reliable IEEE 802.15.4g SUN with Adaptive Modulation Selection and Re-Transmission Shaping. Special Issue “Internet of Things”, Journal of Signal Processing Systems. April 2021 (Q4, IF=1.348).
+1.  Domenico Solimini, Pere Tuset-Peiró, Guillem Boquet, Ruan D. Gomes, Francisco Vázquez-Gallego, Xavier Vilajosana. Towards Reliable IEEE 802.15.4g SUN with Adaptive Modulation Selection and Re-Transmission Shaping. Special Issue “Internet of Things”, Journal of Signal Processing Systems. April 2021 (Q4, IF=1.348).
 
-1. Lejarreta-Andrés, J., Melià-Seguí, J., & Vilajosana, X. (2021). WiLD: Wireless Passive Moisture Sensing Under Moving Conditions for Smart Manufacturing. IEEE Sensors Journal, 21(17), 19541-19549. (Q2, IF=3.073) 
+1.  Lejarreta-Andrés, J., Melià-Seguí, J., & Vilajosana, X. (2021). WiLD: Wireless Passive Moisture Sensing Under Moving Conditions for Smart Manufacturing. IEEE Sensors Journal, 21(17), 19541-19549. (Q2, IF=3.073) 
 
-1. Guerrero, M.; Cano, C.; Vilajosana, X.; Thubert, P. Towards Dependable IoT via Interface Selection: Predicting Packet Delivery at the End Node in LoRaWAN Networks. Sensors 2021, 21, 2707. https://doi.org/10.3390/s21082707 (IF=3.275, Q1) 
+1.  Guerrero, M.; Cano, C.; Vilajosana, X.; Thubert, P. Towards Dependable IoT via Interface Selection: Predicting Packet Delivery at the End Node in LoRaWAN Networks. Sensors 2021, 21, 2707. https://doi.org/10.3390/s21082707 (IF=3.275, Q1) 
 
 1.  Roshan Sedar, Francisco Vázquez-Gallego, Ramon Casellas, Ricard Vilalta, Raul Muñoz, Rodrigo Silva, Laurent Dizambourg, Antonio Eduardo Fernandez Barciela, Xavier Vilajosana, Soumya Kanti Datta, Jérôme Härri, Jesus Alonso-Zarate. "Standards-compliant Multi-protocol On-Board Unit for the Evaluation of Connected and Automated Mobility Services in Multi-vendor Environments". MDPI Sensors 2021. (IF=3.275, Q1) 
 
@@ -252,8 +256,11 @@ Publications
 1.  Daniel Lázaro, Xavier Vilajosana, Joan Manuel Marquès, Angel A. Juan, “A Framework for Dynamic Resource Allocation in Decentralized Environments”, International Journal Multiagent and Grid Systems (MAGS) 2009. ISSN: 1574-1702
 
 ### Conferences
+1. 	Sergio Galve, Xavier Vilajosana, Vicenç Puig: Fault Diagnosis using a Combined Model and Data Based Approach: Application to a Water Cooling Machine. SysTol 2021: 151-156
 
-1. Dimitrios Klonidis, Dimitris Apostolopoulos, Georgios P. Katsikas, Giannis Giannoulis, Konstantina Kanta, Kostas Tokas, Thanos Xirofotos, Raul Muñoz, Francesca Moscatelli, Guy Torfs, Christos Vagionas, David Larrabeiti Lopez, Zhongxia Simon He, Janez Sterle, Dotan Levi, George Lyberopoulos, Victor Lopez Alvarez, Eleni Trouva, Yigal Leiba, Xavier Vilajosana, J. Carles Terés Casals, Hercules Avramopoulos. Int5Gent: An Integrated End-To-End System Platform for Verticals and Data Plane Solutions Beyond 5G. 2021 Joint European Conference on Networks and Communications & 6G Summit (EuCNC/6G Summit): 6G Visions (6GV). Porto, Portugal. 8 June 2021
+1.  Vila Gómez, M., Sancho Samsó, M. R., Teniente López, E., & Vilajosana Guillén, X. (2021). Semantics for connectivity management in IoT sensing. In Conceptual Modeling: 40th International Conference, ER 2021: virtual event, October 18–21, 2021: proceedings (pp. 297-311). Springer Nature.
+
+1.  Dimitrios Klonidis, Dimitris Apostolopoulos, Georgios P. Katsikas, Giannis Giannoulis, Konstantina Kanta, Kostas Tokas, Thanos Xirofotos, Raul Muñoz, Francesca Moscatelli, Guy Torfs, Christos Vagionas, David Larrabeiti Lopez, Zhongxia Simon He, Janez Sterle, Dotan Levi, George Lyberopoulos, Victor Lopez Alvarez, Eleni Trouva, Yigal Leiba, Xavier Vilajosana, J. Carles Terés Casals, Hercules Avramopoulos. Int5Gent: An Integrated End-To-End System Platform for Verticals and Data Plane Solutions Beyond 5G. 2021 Joint European Conference on Networks and Communications & 6G Summit (EuCNC/6G Summit): 6G Visions (6GV). Porto, Portugal. 8 June 2021
 
 1.  Domenico Solimini, Pere Tuset-Peiró, Guillem Boquet, Xavier Vilajosana, Francisco Vázquez-Gallego. Improving Link Reliability of IEEE 802.15.4g SUN with Re-Transmission Shaping. 7th ACM International Symposium on Performance Evaluation of Wireless Ad Hoc, Sensor, and Ubiquitous Networks (PE-WASUN 2020). Alicante, Spain. November 2020.
 
