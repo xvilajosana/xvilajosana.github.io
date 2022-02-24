@@ -28,7 +28,7 @@ Internet Drafts (IETF)
   
 4.  Tengfei Chang, Malisa Vucinic, Xavier Vilajosana, S. Duquennoy, D. Dujovne. IETF Internet draft. “6TiSCH Minimal Scheduling Function (MSF). IETF 2021. [RFC9033](https://tools.ietf.org/html/rfc9033) 
 
-1. Pascal Thubert,Thomas Watteyne, Xavier Vilajosana, Kris Pister,  Mališa Vučinić, Michael Richardson, Tero Kivinen, Maria Rita Palattella, Simon Duquennoy, Qin Wang, Rene Struik, Robert Assimiti. IETF Internet draft. An Architecture for IPv6 over the Time-Slotted Channel Hopping (TSCH) Mode of IEEE 802.15.4. IETF 2021. [RFC9030](https://tools.ietf.org/html/rfc9030) 
+1. Pascal Thubert,Thomas Watteyne, Xavier Vilajosana, Kris Pister, Mališa Vučinić, Michael Richardson, Tero Kivinen, Maria Rita Palattella, Simon Duquennoy, Qin Wang, Rene Struik, Robert Assimiti. IETF Internet draft. An Architecture for IPv6 over the Time-Slotted Channel Hopping (TSCH) Mode of IEEE 802.15.4. IETF 2021. [RFC9030](https://tools.ietf.org/html/rfc9030) 
   
 
 ### Other non-WG drafts
@@ -39,6 +39,8 @@ Internet Drafts (IETF)
 
 Patents
 -------
+1. Borja Martinez, Guillem Boquet, Xavier Vilajosana, Anand Ganesh Dabak, Jianwei Zhou,Kaichien Tsai, Danil Shalumov. ADAPTIVE ANCHOR SELECTION AND TARGET POSITION ESTIMATION. US Patent application: 17/522,732. Filed on Nov 9, 2021. 
+
 1.  Jon Lejarreta, Joan Melia, Xavier Vilajosana. "Systems for detecting moisture and methods". PCT/EP2020/080466. OEPM. 29 October 2020
 
 1.  Borja Martinez, Xavier Vilajosana, Cristina Cano, Marc Guerrero. "ENABLING A COMPUTING RESOURCE OF A COMPUTING POOL". PCT/EP2019/086049. EPO. 19 December 2019
@@ -256,6 +258,8 @@ Publications
 1.  Daniel Lázaro, Xavier Vilajosana, Joan Manuel Marquès, Angel A. Juan, “A Framework for Dynamic Resource Allocation in Decentralized Environments”, International Journal Multiagent and Grid Systems (MAGS) 2009. ISSN: 1574-1702
 
 ### Conferences
+1. D. Arnaiz, F. Moll, E. Alarcón and X. Vilajosana, "Data Relevance-Aware Dynamic Sensing Technique with Battery Lifetime Guarantee for Wireless Sensor Nodes," 2021 XXXVI Conference on Design of Circuits and Integrated Systems (DCIS), 2021, pp. 1-6, doi: 10.1109/DCIS53048.2021.9666191.
+
 1. 	Sergio Galve, Xavier Vilajosana, Vicenç Puig: Fault Diagnosis using a Combined Model and Data Based Approach: Application to a Water Cooling Machine. SysTol 2021: 151-156
 
 1.  Vila Gómez, M., Sancho Samsó, M. R., Teniente López, E., & Vilajosana Guillén, X. (2021). Semantics for connectivity management in IoT sensing. In Conceptual Modeling: 40th International Conference, ER 2021: virtual event, October 18–21, 2021: proceedings (pp. 297-311). Springer Nature.
