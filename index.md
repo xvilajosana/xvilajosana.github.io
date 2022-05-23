@@ -4,9 +4,8 @@ Xavier Vilajosana
 
 Wireless Networks Research Lab (WiNe)  
 Universitat Oberta de Catalunya  
-Parc Mediterrani de la Tecnologia (PMT)  
-Av. Carl Friedrich Gauss 5, Building B3  
-08860, Castelldefels (Barcelona, Spain)  
+Rambla Poblenou 156 
+08018, Barcelona, Catalonia, Spain  
   
 E-mail: [xvilajosana\[at\]uoc\[dot\]edu](mailto:xvilajosana@uoc.edu)  
 
@@ -28,7 +27,7 @@ Internet Drafts (IETF)
   
 4.  Tengfei Chang, Malisa Vucinic, Xavier Vilajosana, S. Duquennoy, D. Dujovne. IETF Internet draft. “6TiSCH Minimal Scheduling Function (MSF). IETF 2021. [RFC9033](https://tools.ietf.org/html/rfc9033) 
 
-1. Pascal Thubert,Thomas Watteyne, Xavier Vilajosana, Kris Pister, Mališa Vučinić, Michael Richardson, Tero Kivinen, Maria Rita Palattella, Simon Duquennoy, Qin Wang, Rene Struik, Robert Assimiti. IETF Internet draft. An Architecture for IPv6 over the Time-Slotted Channel Hopping (TSCH) Mode of IEEE 802.15.4. IETF 2021. [RFC9030](https://tools.ietf.org/html/rfc9030) 
+1.  Pascal Thubert,Thomas Watteyne, Xavier Vilajosana, Kris Pister, Mališa Vučinić, Michael Richardson, Tero Kivinen, Maria Rita Palattella, Simon Duquennoy, Qin Wang, Rene Struik, Robert Assimiti. IETF Internet draft. An Architecture for IPv6 over the Time-Slotted Channel Hopping (TSCH) Mode of IEEE 802.15.4. IETF 2021. [RFC9030](https://tools.ietf.org/html/rfc9030) 
   
 
 ### Other non-WG drafts
@@ -107,16 +106,17 @@ Publications
 ------------
 ### Journals Under Review
 
-1. Ioana Suciu, Guillem Boquet, Pere Tuset-Peiró, Xavier Vilajosana. ADO: An Open Digital End-to-End Aquaculture Platform. Elsevier HardwareX. October 2021 (SJR=0.676, Q1).
-
 1. Borja Martinez, Cristina Cano, Xavier Vilajosana. "Debunking Wireless Sensor Network myths". IEEE Access. (under review)
 
 1. Panagiotis Kontopoulos, Sokratis Barmpounakis, Maciej Muehleisen, Frederic Gardes, Roshan Sedar, Francisco Vazquez-Gallego, Ramon Casellas, Francesca Moscatelli, Xavier Vilajosana, Andreas Schimpe and Jerome Harri. "Service performance measurement methods for 5G Connected and Automated Mobility use cases" IEEE Vehicular Technology Magazine (Under review)
 
-1. Trifun Savic, Xavier Vilajosana, Thomas Wattayne "Constrained Localization: A Survey". IEEE ACCESS (under review)
-
 
 ### Journals
+
+1.  Savić, T., Vilajosana, X., & Watteyne, T. (2022). Constrained Localization: A Survey. IEEE Access.
+
+1.  Suciu, I., Boquet, G., Tuset-Peiró, P., & Vilajosana, X. (2022). ADO: An open digital end-to-end tank based aquaculture platform. HardwareX, 11, e00283.
+
 1.  Tanaka, Yasuyuki; Minet, Pascale; Vučinić, Mališa; Vilajosana, Xavier; Watteyne, Thomas. "YSF: a 6TiSCH Scheduling Function Minimizing Latency of Data Gathering in IIoT". IEEE Internet of Things Journal (Q1, IF=9.515)
 
 1.  Domenico Solimini, Pere Tuset-Peiró, Guillem Boquet, Ruan D. Gomes, Francisco Vázquez-Gallego, Xavier Vilajosana. Towards Reliable IEEE 802.15.4g SUN with Adaptive Modulation Selection and Re-Transmission Shaping. Special Issue “Internet of Things”, Journal of Signal Processing Systems. April 2021 (Q4, IF=1.348).
@@ -258,7 +258,7 @@ Publications
 1.  Daniel Lázaro, Xavier Vilajosana, Joan Manuel Marquès, Angel A. Juan, “A Framework for Dynamic Resource Allocation in Decentralized Environments”, International Journal Multiagent and Grid Systems (MAGS) 2009. ISSN: 1574-1702
 
 ### Conferences
-1. D. Arnaiz, F. Moll, E. Alarcón and X. Vilajosana, "Data Relevance-Aware Dynamic Sensing Technique with Battery Lifetime Guarantee for Wireless Sensor Nodes," 2021 XXXVI Conference on Design of Circuits and Integrated Systems (DCIS), 2021, pp. 1-6, doi: 10.1109/DCIS53048.2021.9666191.
+1.  D. Arnaiz, F. Moll, E. Alarcón and X. Vilajosana, "Data Relevance-Aware Dynamic Sensing Technique with Battery Lifetime Guarantee for Wireless Sensor Nodes," 2021 XXXVI Conference on Design of Circuits and Integrated Systems (DCIS), 2021, pp. 1-6, doi: 10.1109/DCIS53048.2021.9666191.
 
 1. 	Sergio Galve, Xavier Vilajosana, Vicenç Puig: Fault Diagnosis using a Combined Model and Data Based Approach: Application to a Water Cooling Machine. SysTol 2021: 151-156
 
@@ -407,4 +407,4 @@ Academic Publications
 * * *
 
 \[[Update Entry]( https://github.com/)\]  
-Last modified: Thu, 30 September 2021
+Last modified: Thu, 23 May 2022
