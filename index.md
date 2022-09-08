@@ -260,6 +260,12 @@ Publications
 1.  Daniel Lázaro, Xavier Vilajosana, Joan Manuel Marquès, Angel A. Juan, “A Framework for Dynamic Resource Allocation in Decentralized Environments”, International Journal Multiagent and Grid Systems (MAGS) 2009. ISSN: 1574-1702
 
 ### Conferences
+1. Alfayoumi, S., & Vilajosana, X. (2022, June). Attacker Identification In LoRaWAN Through Physical Channel Fingerprinting. In 2022 IEEE 95th Vehicular Technology Conference:(VTC2022-Spring) (pp. 1-5). IEEE.
+
+1. Melià-Seguí, J., Rojas, I., Lejarreta-Andrés, J., & Vilajosana, X. (2022, May). Towards Measurement Range Extension of UHF RFID Temperature Sensors for Industrial Applications. In 2022 IEEE International Conference on RFID (RFID) (pp. 12-16). IEEE.
+
+1. Igual, J., Catalan, M., Catalan-Cid, M., Vázquez-Gallego, F., Fernández, J., Muñoz, R., ... & Vilajosana, X. (2022, June). Demonstration and Evaluation of Precise Positioning for Connected and Automated Mobility Services. In 2022 Joint European Conference on Networks and Communications & 6G Summit (EuCNC/6G Summit) (pp. 267-272). IEEE.
+
 1.  D. Arnaiz, F. Moll, E. Alarcón and X. Vilajosana, "Data Relevance-Aware Dynamic Sensing Technique with Battery Lifetime Guarantee for Wireless Sensor Nodes," 2021 XXXVI Conference on Design of Circuits and Integrated Systems (DCIS), 2021, pp. 1-6, doi: 10.1109/DCIS53048.2021.9666191.
 
 1. 	Sergio Galve, Xavier Vilajosana, Vicenç Puig: Fault Diagnosis using a Combined Model and Data Based Approach: Application to a Water Cooling Machine. SysTol 2021: 151-156
