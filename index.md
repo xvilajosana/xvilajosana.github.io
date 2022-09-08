@@ -105,6 +105,7 @@ Patents
 Publications
 ------------
 ### Journals Under Review
+1. Vilajosana, X., Boquet, G., Melià, J., Tuset-Peiró, P., Martinez, B., & Adelantado, F. (2022). Challenges and Opportunities for Simultaneous Multi-functional Networks in the UHF Bands. arXiv preprint arXiv:2208.04247.
 
 1. Borja Martinez, Cristina Cano, Xavier Vilajosana. "Debunking Wireless Sensor Network myths". IEEE Access. (under review)
 
@@ -112,6 +113,7 @@ Publications
 
 
 ### Journals
+1. Martinez, B., & Vilajosana, X. (2022). On the Sustainability of Virtual Platforms: A Behavioral Intervention. IEEE Access, 10, 29194-29206.
 
 1.  Savić, T., Vilajosana, X., & Watteyne, T. (2022). Constrained Localization: A Survey. IEEE Access.
 
