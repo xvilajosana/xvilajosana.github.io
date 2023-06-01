@@ -105,14 +105,12 @@ Patents
 Publications
 ------------
 ### Journals Under Review
-1. Vilajosana, X., Boquet, G., Melià, J., Tuset-Peiró, P., Martinez, B., & Adelantado, F. (2022). Challenges and Opportunities for Simultaneous Multi-functional Networks in the UHF Bands. arXiv preprint arXiv:2208.04247.
-
-1. Borja Martinez, Cristina Cano, Xavier Vilajosana. "Debunking Wireless Sensor Network myths". IEEE Access. (under review)
-
-1. Panagiotis Kontopoulos, Sokratis Barmpounakis, Maciej Muehleisen, Frederic Gardes, Roshan Sedar, Francisco Vazquez-Gallego, Ramon Casellas, Francesca Moscatelli, Xavier Vilajosana, Andreas Schimpe and Jerome Harri. "Service performance measurement methods for 5G Connected and Automated Mobility use cases" IEEE Vehicular Technology Magazine (Under review)
-
 
 ### Journals
+1. X. Vilajosana, G. Boquet, J. Melià-Seguí, P. Tuset-Peiró, B. Martinez and F. Adelantado, "Challenges and Opportunities for Simultaneous Multifunctional Wireless Networks in the UHF Band," in IEEE Communications Magazine, vol. 61, no. 5, pp. 48-54, May 2023, doi: 10.1109/MCOM.001.2200345
+
+1. J. Lejarreta-Andrés, J. Melià-Seguí, R. Bhattacharyya, X. Vilajosana and S. E. Sarma, "Toward Low-Cost RF-Based Bulk Fabric Classification for the Textile Industry," in IEEE Sensors Journal, vol. 22, no. 16, pp. 16586-16594, 15 Aug.15, 2022, doi: 10.1109/JSEN.2022.3188936.
+
 1. Martinez, B., & Vilajosana, X. (2022). On the Sustainability of Virtual Platforms: A Behavioral Intervention. IEEE Access, 10, 29194-29206.
 
 1.  Savić, T., Vilajosana, X., & Watteyne, T. (2022). Constrained Localization: A Survey. IEEE Access.
