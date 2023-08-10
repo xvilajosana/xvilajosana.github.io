@@ -107,9 +107,9 @@ Publications
 ### Journals Under Review
 
 ### Journals
-1.D. Arnaiz, E. Alarcón, F. Moll, X. Vilajosana. (2023) “On Anomaly-Aware Structural Health Monitoring at the Extreme Edge”. IEEE Access, 8
+1. D. Arnaiz, E. Alarcón, F. Moll, X. Vilajosana. (2023) “On Anomaly-Aware Structural Health Monitoring at the Extreme Edge”. IEEE Access, 8
 
-1.G. Boquet, B. Martinez, F. Adelantado, J. Pages, J. A. Ruiz-de-Azua and X. Vilajosana, "Low-Power Satellite Access Time Estimation for Internet of Things Services over Non-Terrestrial Networks," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2023.3298017.
+1. G. Boquet, B. Martinez, F. Adelantado, J. Pages, J. A. Ruiz-de-Azua and X. Vilajosana, "Low-Power Satellite Access Time Estimation for Internet of Things Services over Non-Terrestrial Networks," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2023.3298017.
 
 1. Vila, M., Sancho, M. R., Teniente, E., & Vilajosana, X. (2023). Critical infrastructure awareness based on IoT context data. Elsevier Internet of Things, 23, 100855.
 
