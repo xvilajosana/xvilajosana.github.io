@@ -107,6 +107,12 @@ Publications
 ### Journals Under Review
 
 ### Journals
+1.D. Arnaiz, E. Alarcón, F. Moll, X. Vilajosana. (2023) “On Anomaly-Aware Structural Health Monitoring at the Extreme Edge”. IEEE Access, 8
+
+1.G. Boquet, B. Martinez, F. Adelantado, J. Pages, J. A. Ruiz-de-Azua and X. Vilajosana, "Low-Power Satellite Access Time Estimation for Internet of Things Services over Non-Terrestrial Networks," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2023.3298017.
+
+1. Vila, M., Sancho, M. R., Teniente, E., & Vilajosana, X. (2023). Critical infrastructure awareness based on IoT context data. Elsevier Internet of Things, 23, 100855.
+
 1. X. Vilajosana, G. Boquet, J. Melià-Seguí, P. Tuset-Peiró, B. Martinez and F. Adelantado, "Challenges and Opportunities for Simultaneous Multifunctional Wireless Networks in the UHF Band," in IEEE Communications Magazine, vol. 61, no. 5, pp. 48-54, May 2023, doi: 10.1109/MCOM.001.2200345
 
 1. J. Lejarreta-Andrés, J. Melià-Seguí, R. Bhattacharyya, X. Vilajosana and S. E. Sarma, "Toward Low-Cost RF-Based Bulk Fabric Classification for the Textile Industry," in IEEE Sensors Journal, vol. 22, no. 16, pp. 16586-16594, 15 Aug.15, 2022, doi: 10.1109/JSEN.2022.3188936.
