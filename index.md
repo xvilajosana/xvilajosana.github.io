@@ -107,6 +107,7 @@ Publications
 ### Journals Under Review
 
 ### Journals
+1. David Arnaiz, Francesc Moll, Eduard Alarcón, Xavier Vilajosana. "Energy and relevance-aware adaptive monitoring method for wireless sensor nodes with hard energy constraints". Integration, the VLSI Journa, Elsevier. 94: 102097 (2024)
 
 1. Vila, M., Sancho, M. R., Teniente, E., & Vilajosana, X. (2023). Critical infrastructure awareness based on IoT context data. Elsevier Internet of Things, 23, 100855.
 
