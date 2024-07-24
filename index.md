@@ -107,6 +107,12 @@ Publications
 ### Journals Under Review
 
 ### Journals
+1. G. Boquet, X.Vilajosana, B. Martinez. “Feasibility of Providing High-Precision GNSS Correction Data through Non-Terrestrial Networks”, IEEE Transactions on Instrumentation & Measurement. July 2024
+
+1. Pisa, I., Boquet, G., Vilajosana, X., & Martinez, B. (2024). On the Generalization of Deep Learning Models for AoA Estimation in Bluetooth Indoor Scenarios. Internet of Things, 26, 101152.
+
+1. Guillem Boquet, Aleix Boquet-Pujadas, Ivan Pisa, Anand Dabak, Xavier Vilajosana, Borja Martinez, "Indoor position estimation using angle of arrival measurements: An efficient multi-anchor approach with outlier rejection". Internet of Things, Volume 26, 2024, 101236, ISSN 2542-6605, https://doi.org/10.1016/j.iot.2024.101236.
+
 1. David Arnaiz, Francesc Moll, Eduard Alarcón, Xavier Vilajosana. "Energy and relevance-aware adaptive monitoring method for wireless sensor nodes with hard energy constraints". Integration, the VLSI Journa, Elsevier. 94: 102097 (2024)
 
 1. Vila, M., Sancho, M. R., Teniente, E., & Vilajosana, X. (2023). Critical infrastructure awareness based on IoT context data. Elsevier Internet of Things, 23, 100855.
