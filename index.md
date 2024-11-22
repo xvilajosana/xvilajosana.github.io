@@ -105,8 +105,14 @@ Patents
 Publications
 ------------
 ### Journals Under Review
+1. Sobhi Alfayoumi, Joan Melia, Xavier Vilajosana. “Adapting LoRaWAN to the Open-RAN Architecture”. IEEE Network. (Under Review)
 
+ 
 ### Journals
+1. Andrés Seré, Mohammed Alsultan, Leonardo Steinfeld, Pablo Pérez-Nicoli, Xavier Vilajosana and Joan Melià-Seguí, “Extending temperature range of UHF RFID sensors for industrial applications”. IEEE Sensors Letters. January 2025
+
+1. S. López-Soriano, X. Vilajosana and J. Melià-Seguí, "A Battery-Less and Low-Cost RFID Sensor for Unassisted Multi-level Detection of Sweat Loss," in IEEE Sensors Journal, doi: 10.1109/JSEN.2024.3485592.  
+
 1. G. Boquet, X.Vilajosana, B. Martinez. “Feasibility of Providing High-Precision GNSS Correction Data through Non-Terrestrial Networks”, IEEE Transactions on Instrumentation & Measurement. July 2024
 
 1. Pisa, I., Boquet, G., Vilajosana, X., & Martinez, B. (2024). On the Generalization of Deep Learning Models for AoA Estimation in Bluetooth Indoor Scenarios. Internet of Things, 26, 101152.
