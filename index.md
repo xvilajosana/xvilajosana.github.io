@@ -105,10 +105,11 @@ Patents
 Publications
 ------------
 ### Journals Under Review
-1. Sobhi Alfayoumi, Joan Melia, Xavier Vilajosana. “Adapting LoRaWAN to the Open-RAN Architecture”. IEEE Network. (Under Review)
 
  
 ### Journals
+1. Sobhi Alfayoumi, Joan Melia, Xavier Vilajosana. “Adapting LoRaWAN to the Open-RAN Architecture”. IEEE Network. June 2025 (Accepted Pending publication)
+
 1. Andrés Seré, Mohammed Alsultan, Leonardo Steinfeld, Pablo Pérez-Nicoli, Xavier Vilajosana and Joan Melià-Seguí, “Extending temperature range of UHF RFID sensors for industrial applications”. IEEE Sensors Letters. January 2025
 
 1. S. López-Soriano, X. Vilajosana and J. Melià-Seguí, "A Battery-Less and Low-Cost RFID Sensor for Unassisted Multi-level Detection of Sweat Loss," in IEEE Sensors Journal, doi: 10.1109/JSEN.2024.3485592.  
